@@ -1,0 +1,12 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html>
+<head>
+	<title>跳转中。。。</title>
+</head>
+<body>
+
+</body>
+<script type="text/javascript">
+	window.location.href='https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx9922497712255467&redirect_uri=http%3a%2f%2fzl.weilaimeixue.com%2findex%2fhome%2f&response_type=code&scope=snsapi_base&state=wlmx&connect_redirect=1#wechat_redirect';
+</script>
+</html>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>{$l.l_title}</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1,user-scalable=no">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+	<!--标准mui.css-->
+	<link rel="stylesheet" href="__MUI__/css/mui.min.css">
+	<!--App自定义的css-->
+	<link rel="stylesheet" type="text/css" href="__MUI__/css/app.css"/>
+</head>
+<body>
+<!--          HEAD           -->
+	<div>
+		<img src="{$l.l_banner}" style="width: 100%;height: 150px">
+	</div>
+	
+<!--          MAIN           -->
+	<div style="margin-bottom: 50px;">
+		{$l.author}  {$l.time}<BR/>
+		{$l.text}
+	</div>
+<!--          FOOT           -->
+	<div>
+		<nav class="mui-bar mui-bar-tab">
+			<a class="mui-tab-item mui-active" href="https://baidu.com">
+				<span class="mui-icon mui-icon-home"></span>
+				<span class="mui-tab-label">评论</span>
+			</a>
+			<a class="mui-tab-item" href="https://baidu.com">
+				<span class="mui-icon mui-icon-email"></span>
+				<span class="mui-tab-label">点赞</span>
+			</a>
+			<a class="mui-tab-item" href="https://baidu.com">
+				<span class="mui-icon mui-icon-contact"></span>
+				<span class="mui-tab-label">红包</span>
+			</a>
+			<a class="mui-tab-item" href="https://baidu.com">
+				<span class="mui-icon mui-icon-gear"></span>
+				<span class="mui-tab-label">更多</span>
+			</a>
+		</nav>
+	</div>
+</body>
+</html>

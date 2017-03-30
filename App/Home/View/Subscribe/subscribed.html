@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>已订专栏</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1,user-scalable=no">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+	<!--标准mui.css-->
+	<link rel="stylesheet" href="__MUI__/css/mui.min.css">
+	<!--App自定义的css-->
+	<link rel="stylesheet" type="text/css" href="__MUI__/css/app.css"/>
+</head>
+<body>
+<!--           HEAD         -->
+  <ul class="mui-table-view mui-table-view-striped mui-table-view-condensed">
+	 <volist name="list" id="l">
+	    <li id="subscribed-head-li" class="mui-table-view-cell ">
+	        <div class="mui-table">
+	            <div class="mui-table-cell mui-col-xs-10">
+	                <h4 class="mui-ellipsis">
+	                	<div style="float: left">
+	                		<div style="width: 27.5%;overflow: hidden;float: left;">{$l.title}
+	                		</div>...
+	                	</div>
+	                	<div style="float: left;">
+	                		<div style="position:absolute;left: 50%;top: 5px;overflow: hidden;float: left;">{$l.author}
+	                		</div>
+	                	</div>
+	                	<a href="http://zl.weilaimeixue.com/course/course/?cid={$l.id}" style="position:absolute;left: 85%;top: 5px;color: black">
+	                		更多>
+	                		
+	                	</a>
+	                </h4>
+	                <h5><img style="width: 99%;height: 178px;margin-top: 20px;" src="{$l.l_thumbnail}"></h5>
+	                <p class="mui-h4 mui-ellipsis subscribed-head-p"><span>{$l.time}</span><a href="http://zl.weilaimeixue.com/course/text/?lid={$l.tid}" style="float: right;color: #999">阅读全文</a></p>
+	            </div>
+	            
+	        </div>
+	    </li>
+   </volist>
+</ul>
+<!--           MAIN         -->
+<!--           FOOT         -->
+</body>
+<script src="__MUI__/js/mui.min.js"></script>
+	<script>
+		mui.init({
+			swipeBack:true //启用右滑关闭功能
+		});
+
+
+</script>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>{$t.title}</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1,user-scalable=no">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+	<!--标准mui.css-->
+	<link rel="stylesheet" href="__MUI__/css/mui.min.css">
+	<!--App自定义的css-->
+	<link rel="stylesheet" type="text/css" href="__MUI__/css/app.css"/>
+</head>
+<body>
+<volist name="list" id="l">
+	<div class="mui-card">
+		<div class="mui-card-header mui-card-media" style="height:40vw;background-image:url({$l.l_banner})"><div></div></div>
+		<div class="mui-card-content">
+			<div class="mui-card-content-inner" style="padding-bottom: 0px;">
+				<p style="">{$l.s_text}</p>
+				<p><span>{$l.time}</span>
+				<if condition="$l.view eq 1">
+				<a href="http://zl.weilaimeixue.com/course/unsubscribe/?lid={$l.id}" style="float: right;">阅读全文</a>
+				<else /> 
+				<a href="http://zl.weilaimeixue.com/subscribe/index/?cid={$t.id}" style="float: right;">购买此文</a>
+				</if>
+				
+
+				</p>
+			</div>
+		</div>
+	</div>
+</volist>
+</body>
+</html>

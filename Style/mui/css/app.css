@@ -1,0 +1,162 @@
+/*
+ *这是单独为hello mui准备的个性化css，可以覆盖标准mui的css定义；
+ * 在实际项目开发时，建议为App单独写一个css文件，从而实现项目的自定义皮肤功能；
+ * 
+ * */
+.mui-plus header.mui-bar{
+	display: none;
+}
+.mui-plus .mui-bar-nav~.mui-content{
+	padding: 0;
+}
+
+/*hm开头的表示仅为 Hello MUI示例定义*/
+.hm-description{
+	margin: .5em 0;
+}
+
+.hm-description>li {
+	font-size: 14px;
+	color: #8f8f94;
+}
+.mui-table-view .mui-media-object{
+	line-height:120px;
+	max-width:120px;
+	height:120px;
+}
+.mui-table-view-cell{
+    background-color: #DDD;
+	height: 150px;
+}
+
+.home-text-1{
+	color: black;
+}
+
+.home-price-1{
+	color: black;
+}
+
+.course-title-intro{
+	word-break:break-all;
+}
+
+.home-a{
+	display: table-cell;
+    overflow: hidden;
+    width: 1%;
+    height: 50px;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-decoration: none;
+    box-sizing: border-box;
+    -webkit-user-select: none;
+    outline: 0;
+    cursor: auto;
+    font-family: 'Helvetica Neue',Helvetica,sans-serif;
+    font-size: 17px;
+    line-height: 21px;
+}
+
+.course-a{
+    display: table-cell;
+    overflow: hidden;
+    width: 1%;
+    text-align: center;
+    white-space: nowrap;
+    text-decoration: none;
+    cursor: auto;
+    font-family: 'Helvetica Neue',Helvetica,sans-serif;
+}
+
+.mui-btn{
+    width: 150px;
+    border-radius: 10px;
+}
+
+.subscribe-head-pad{
+    height: 200px;
+}
+
+#subscribe-head-img{
+    height: 170px;
+}
+.subscribe-main-div1{
+    
+    background-color: #CCC;
+    text-align: center;
+    margin:40px 20px;
+     
+}
+.subscribe-main-div1-p{
+
+    color: black;
+    font-size: 10px; 
+}
+
+.subscribe-main-div2{
+    
+    text-align: center;
+    margin:80px auto 50px;
+}
+.subscribe-main-div2-p{
+    color: black;
+    font-size: 20px; 
+}
+
+.subscribe-main-div3{
+    text-align: center;
+    padding: 20px;
+    margin: 0 auto;
+    word-break:normal;
+}
+
+.subscribe-main-div3-p{
+    font-size: 15px; 
+}
+.subscribe-main-div4{
+    text-align: center;
+    
+    margin: 30px auto 70px;
+    word-break:normal;
+}
+.subscribe-main-div4-b{
+    font-size:20px;
+    
+    height: 50px;
+    color: white;
+    background-color: green;
+}
+
+.subscribe-success-main-div-1{
+    margin: 100px auto 0;
+}
+.subscribe-success-main-label{
+    text-align: center;
+}
+
+.subscribe-success-main-div-2{
+    text-align: center;
+    margin: 50px auto 0;
+}
+
+.subscribe-success-main-button{
+    height: 60px;
+    width: 300px;
+}
+
+.subscribe-success-foot-div-1{
+    font-size: 15px;
+    text-align: center;
+    color: #CCC;
+    margin-top: 220px;
+}
+
+#subscribed-head-li{
+    height: 283px;
+}
+.subscribed-head-p{
+    margin-top: 10px;
+}

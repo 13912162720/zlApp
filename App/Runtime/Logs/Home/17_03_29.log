@@ -1,0 +1,3325 @@
+[ 2017-03-29T00:25:26+08:00 ] 180.153.201.15 /subscribe/success
+ERR: Login Please
+
+[ 2017-03-29T00:31:20+08:00 ] 61.151.226.189 /course/subscribed?cid%3D3
+ERR: Login Please
+
+[ 2017-03-29T00:43:42+08:00 ] 101.226.99.195 /course/index?cid%3D3
+ERR: Login Please
+
+[ 2017-03-29T02:06:23+08:00 ] 117.100.45.33 /
+ERR: Empty Input
+
+[ 2017-03-29T02:06:26+08:00 ] 117.100.45.33 /
+ERR: Empty Input
+
+[ 2017-03-29T02:06:32+08:00 ] 117.185.27.114 /
+ERR: Empty Input
+
+[ 2017-03-29T02:10:17+08:00 ] 117.100.45.33 /2
+ERR: 无法加载控制器:2
+
+[ 2017-03-29T02:10:17+08:00 ] 117.100.45.33 /1
+ERR: 无法加载控制器:1
+
+[ 2017-03-29T02:10:17+08:00 ] 117.100.45.33 /3
+ERR: 无法加载控制器:3
+
+[ 2017-03-29T02:10:17+08:00 ] 117.100.45.33 /4
+ERR: 无法加载控制器:4
+
+[ 2017-03-29T02:14:39+08:00 ] 117.100.45.33 /
+ERR: Empty Input
+
+[ 2017-03-29T02:14:52+08:00 ] 117.100.45.33 /1
+ERR: 无法加载控制器:1
+
+[ 2017-03-29T02:14:52+08:00 ] 117.100.45.33 /2
+ERR: 无法加载控制器:2
+
+[ 2017-03-29T02:14:52+08:00 ] 117.100.45.33 /4
+ERR: 无法加载控制器:4
+
+[ 2017-03-29T02:14:52+08:00 ] 117.100.45.33 /3
+ERR: 无法加载控制器:3
+
+[ 2017-03-29T02:17:07+08:00 ] 117.100.45.33 /index/home/?code=051SBZwt0dZyTd19taxt015jxt0SBZwO&state=wlmx
+ERR: 模板不存在:./App/Home/View/Index/home.html
+
+[ 2017-03-29T02:17:16+08:00 ] 101.226.66.192 /index/home
+ERR: Empty Input
+
+[ 2017-03-29T02:17:33+08:00 ] 117.100.45.33 /index/ttt
+ERR: 非法操作:ttt
+
+[ 2017-03-29T02:17:36+08:00 ] 117.100.45.33 /index/home/?code=0216FTnc1YQpMs0lvcnc14uUnc16FTnt&state=wlmx
+ERR: 模板不存在:./App/Home/View/Index/home.html
+
+[ 2017-03-29T02:17:57+08:00 ] 117.100.45.33 /index/ttt
+ERR: 非法操作:ttt
+
+[ 2017-03-29T02:17:59+08:00 ] 117.100.45.33 /index/home/?code=011wHqYK0H9xT42YhTWK0Hh5YK0wHqYg&state=wlmx
+ERR: 模板不存在:./App/Home/View/Index/home.html
+
+[ 2017-03-29T02:57:04+08:00 ] 101.226.64.174 /course/lists?cid%25253D2
+ERR: Login Please
+
+[ 2017-03-29T02:57:13+08:00 ] 101.226.33.238 /course/lists?cid%25253D2
+ERR: Login Please
+
+[ 2017-03-29T02:57:26+08:00 ] 120.83.120.3 /course/lists?cid%25253D2
+ERR: Login Please
+
+[ 2017-03-29T03:15:55+08:00 ] 180.153.206.23 /course/index?cid%253D3
+ERR: Login Please
+
+[ 2017-03-29T03:16:21+08:00 ] 45.121.21.83 /course/index?cid%253D3
+ERR: Login Please
+
+[ 2017-03-29T03:21:47+08:00 ] 101.226.68.215 /subscribe/success
+ERR: Login Please
+
+[ 2017-03-29T03:24:09+08:00 ] 112.90.82.218 /course/subscribed?cid%253D3
+ERR: Login Please
+
+[ 2017-03-29T03:24:18+08:00 ] 101.226.66.178 /course/subscribed?cid%253D3
+ERR: Login Please
+
+[ 2017-03-29T03:24:18+08:00 ] 180.153.214.178 /course/subscribed?cid%253D3
+ERR: Login Please
+
+[ 2017-03-29T03:24:18+08:00 ] 101.226.33.208 /course/subscribed?cid%253D3
+ERR: Login Please
+
+[ 2017-03-29T07:54:34+08:00 ] 101.226.66.181 /course/lists?cid%2525253D2
+ERR: Login Please
+
+[ 2017-03-29T08:19:25+08:00 ] 180.153.201.79 /subscribe/index/?cid%3D1
+ERR: Login Please
+
+[ 2017-03-29T09:18:22+08:00 ] 61.151.226.16 /course/list?cid%3D2
+ERR: Login Please
+
+[ 2017-03-29T09:18:58+08:00 ] 112.90.82.218 /course/index?cid%2525252525253D2
+ERR: Login Please
+
+[ 2017-03-29T09:19:08+08:00 ] 101.226.33.206 /course/index?cid%2525252525253D2
+ERR: Login Please
+
+[ 2017-03-29T09:19:22+08:00 ] 123.206.110.102 /course/index?cid%2525252525253D2
+ERR: Login Please
+
+[ 2017-03-29T09:44:51+08:00 ] 180.153.205.252 /subscribe/index/?cid%3D2
+ERR: Login Please
+
+[ 2017-03-29T09:55:48+08:00 ] 101.226.33.227 /index/home
+ERR: Empty Input
+
+[ 2017-03-29T10:00:11+08:00 ] 101.226.33.202 /index/home/course/index?cid=1
+ERR: Empty Input
+
+[ 2017-03-29T10:00:14+08:00 ] 180.153.201.28 /index/home/course/course/index?cid=1
+ERR: Empty Input
+
+[ 2017-03-29T10:00:15+08:00 ] 140.207.185.111 /index/home/course/course/course/index?cid=1
+ERR: Empty Input
+
+[ 2017-03-29T10:00:15+08:00 ] 140.207.185.107 /index/home/course/course/course/course/index?cid=2
+ERR: Empty Input
+
+[ 2017-03-29T10:00:17+08:00 ] 101.226.33.240 /index/home/course/course/course/course/course/subscribe/subscribed
+ERR: Empty Input
+
+[ 2017-03-29T10:01:00+08:00 ] 101.226.61.207 /index/home/course/course/course/course/course/subscribe/course/course/index?cid=1
+ERR: Empty Input
+
+[ 2017-03-29T10:44:52+08:00 ] 114.242.248.208 /index/course/index?cid=1
+ERR: 非法操作:course
+
+[ 2017-03-29T10:45:02+08:00 ] 101.226.51.226 /index/course/index?cid=1
+ERR: 非法操作:course
+
+[ 2017-03-29T10:45:34+08:00 ] 114.242.248.208 /index/course/index?cid=1
+ERR: 非法操作:course
+
+[ 2017-03-29T10:45:41+08:00 ] 114.242.248.208 /index/course/index?cid=1
+ERR: 非法操作:course
+
+[ 2017-03-29T10:46:39+08:00 ] 101.226.33.227 /index/home/course/course/index?cid=1
+ERR: Empty Input
+
+[ 2017-03-29T10:49:45+08:00 ] 140.207.185.109 /course/lists?cid%252525253D2
+ERR: Login Please
+
+[ 2017-03-29T11:17:43+08:00 ] 218.241.187.34 /index/course/index?cid=1
+ERR: 非法操作:course
+
+[ 2017-03-29T11:18:02+08:00 ] 180.153.214.178 /index/home/subscribe/subscribe/subscribed
+ERR: Empty Input
+
+[ 2017-03-29T11:18:02+08:00 ] 101.226.33.217 /index/home/subscribe/subscribe/subscribed
+ERR: Empty Input
+
+[ 2017-03-29T11:18:02+08:00 ] 180.153.206.23 /index/home/subscribe/subscribe/subscribed
+ERR: Empty Input
+
+[ 2017-03-29T11:18:02+08:00 ] 101.226.65.108 /index/home/subscribe/subscribe/subscribed
+ERR: Empty Input
+
+[ 2017-03-29T11:18:04+08:00 ] 180.153.214.197 /index/home/subscribe/subscribe/subscribe/subscribed
+ERR: Empty Input
+
+[ 2017-03-29T11:18:08+08:00 ] 101.226.33.201 /index/home/subscribe/subscribed
+ERR: Empty Input
+
+[ 2017-03-29T11:20:17+08:00 ] 124.202.174.46 /Course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T11:20:19+08:00 ] 124.202.174.46 /Course/2
+ERR: 非法操作:2
+
+[ 2017-03-29T11:20:21+08:00 ] 124.202.174.46 /Course/3
+ERR: 非法操作:3
+
+[ 2017-03-29T11:20:23+08:00 ] 124.202.174.46 /Course/3
+ERR: 非法操作:3
+
+[ 2017-03-29T11:20:24+08:00 ] 180.153.206.24 /Subscribe/subscribed.html
+ERR: Login Please
+
+[ 2017-03-29T11:20:27+08:00 ] 117.185.27.114 /Course/index.html?cid=1
+ERR: Login Please
+
+[ 2017-03-29T11:20:29+08:00 ] 180.153.206.17 /Course/index.html?cid=2
+ERR: Login Please
+
+[ 2017-03-29T11:20:34+08:00 ] 61.151.226.202 /subscribe/index/?cid=3
+ERR: Login Please
+
+[ 2017-03-29T11:20:36+08:00 ] 140.207.54.76 /subscribe/success
+ERR: Login Please
+
+[ 2017-03-29T11:20:37+08:00 ] 124.202.174.46 /course/3
+ERR: 非法操作:3
+
+[ 2017-03-29T11:20:48+08:00 ] 180.153.206.23 /Course/index.html?cid=3
+ERR: Login Please
+
+[ 2017-03-29T11:20:51+08:00 ] 140.207.54.76 /subscribe/success
+ERR: Login Please
+
+[ 2017-03-29T11:21:09+08:00 ] 101.226.103.71 /subscribe/success
+ERR: Login Please
+
+[ 2017-03-29T11:21:42+08:00 ] 58.251.80.62 /subscribe/success
+ERR: Login Please
+
+[ 2017-03-29T11:24:45+08:00 ] 140.207.54.76 /subscribe/success
+ERR: Login Please
+
+[ 2017-03-29T11:27:41+08:00 ] 218.241.187.34 /Course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T11:27:48+08:00 ] 140.207.54.76 /subscribe/success
+ERR: Login Please
+
+[ 2017-03-29T11:27:59+08:00 ] 101.226.65.102 /subscribe/success?cid=1
+ERR: Login Please
+
+[ 2017-03-29T11:28:01+08:00 ] 101.226.68.213 /Course/course.html
+ERR: Login Please
+
+[ 2017-03-29T11:28:02+08:00 ] 183.3.234.63 /subscribe/success
+ERR: Login Please
+
+[ 2017-03-29T11:28:11+08:00 ] 119.29.222.43 /subscribe/success?cid=1
+ERR: Login Please
+
+[ 2017-03-29T11:28:18+08:00 ] 101.226.103.71 /subscribe/success
+ERR: Login Please
+
+[ 2017-03-29T11:28:51+08:00 ] 140.207.54.73 /subscribe/success
+ERR: Login Please
+
+[ 2017-03-29T11:28:57+08:00 ] 124.202.174.46 /Course/course.html?cid=1
+ERR: Login Please
+
+[ 2017-03-29T11:28:59+08:00 ] 61.151.226.191 /Course/course.html?cid=1
+ERR: Login Please
+
+[ 2017-03-29T11:31:53+08:00 ] 140.207.54.76 /subscribe/success
+ERR: Login Please
+
+[ 2017-03-29T11:53:26+08:00 ] 218.241.187.34 /Course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T11:54:47+08:00 ] 101.226.103.63 /subscribe/success
+ERR: Login Please
+
+[ 2017-03-29T12:01:55+08:00 ] 140.207.54.76 /subscribe/success
+ERR: Login Please
+
+[ 2017-03-29T12:06:42+08:00 ] 218.241.187.34 /index/ttt
+ERR: 非法操作:ttt
+
+[ 2017-03-29T12:20:25+08:00 ] 101.226.66.193 /course/list?cid%253D2
+ERR: Login Please
+
+[ 2017-03-29T12:24:49+08:00 ] 140.207.54.74 /subscribe/success
+ERR: Login Please
+
+[ 2017-03-29T12:31:59+08:00 ] 58.251.80.58 /subscribe/success
+ERR: Login Please
+
+[ 2017-03-29T12:54:51+08:00 ] 140.207.54.76 /subscribe/success
+ERR: Login Please
+
+[ 2017-03-29T13:02:01+08:00 ] 140.207.54.75 /subscribe/success
+ERR: Login Please
+
+[ 2017-03-29T13:14:47+08:00 ] 124.202.174.46 /Course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T13:14:51+08:00 ] 124.202.174.46 /Course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T13:15:07+08:00 ] 124.202.174.46 /Subscribe/2
+ERR: 非法操作:2
+
+[ 2017-03-29T13:16:52+08:00 ] 218.241.187.34 /Course/2
+ERR: 非法操作:2
+
+[ 2017-03-29T13:16:54+08:00 ] 218.241.187.34 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:18:32+08:00 ] 124.202.174.46 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:18:47+08:00 ] 124.202.174.46 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:19:07+08:00 ] 124.202.174.46 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:19:38+08:00 ] 124.202.174.46 /subscribe/index?cid=1
+ERR: Login Please
+
+[ 2017-03-29T13:20:50+08:00 ] 124.202.174.46 /Course/2
+ERR: 非法操作:2
+
+[ 2017-03-29T13:20:52+08:00 ] 124.202.174.46 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:21:16+08:00 ] 124.202.174.46 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:22:00+08:00 ] 124.202.174.46 /Course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T13:22:02+08:00 ] 124.202.174.46 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:22:43+08:00 ] 218.241.187.34 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:24:52+08:00 ] 140.207.54.74 /subscribe/success
+ERR: Login Please
+
+[ 2017-03-29T13:25:39+08:00 ] 218.241.187.34 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:26:20+08:00 ] 218.241.187.34 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:28:57+08:00 ] 183.57.53.222 /index/home/course/index?cid%3D1
+ERR: Empty Input
+
+[ 2017-03-29T13:29:06+08:00 ] 112.65.193.14 /index/home/course/index?cid%3D1
+ERR: Empty Input
+
+[ 2017-03-29T13:29:14+08:00 ] 180.153.206.24 /course/lists?cid%25252525253D2
+ERR: Login Please
+
+[ 2017-03-29T13:29:28+08:00 ] 218.241.187.34 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:29:43+08:00 ] 218.241.187.34 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:32:03+08:00 ] 58.251.80.52 /subscribe/success
+ERR: Login Please
+
+[ 2017-03-29T13:32:21+08:00 ] 124.202.174.46 /Course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T13:32:22+08:00 ] 124.202.174.46 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:33:42+08:00 ] 101.226.65.104 /index/home/course/course/course/index?cid%3D1
+ERR: Empty Input
+
+[ 2017-03-29T13:34:10+08:00 ] 124.202.174.46 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:34:24+08:00 ] 218.241.187.34 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:34:31+08:00 ] 218.241.187.34 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:34:38+08:00 ] 218.241.187.34 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:34:52+08:00 ] 218.241.187.34 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:35:01+08:00 ] 218.241.187.34 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:35:18+08:00 ] 218.241.187.34 /Course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T13:35:19+08:00 ] 218.241.187.34 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:35:55+08:00 ] 218.241.187.34 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:36:07+08:00 ] 218.241.187.34 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:36:55+08:00 ] 124.202.174.46 /Course/2
+ERR: 非法操作:2
+
+[ 2017-03-29T13:36:56+08:00 ] 124.202.174.46 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:37:39+08:00 ] 218.241.187.34 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:38:04+08:00 ] 124.202.174.46 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:38:39+08:00 ] 124.202.174.46 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:39:06+08:00 ] 124.202.174.46 /pay/a
+ERR: Login Please
+
+[ 2017-03-29T13:40:11+08:00 ] 218.241.187.34 /Course/2
+ERR: 非法操作:2
+
+[ 2017-03-29T13:40:13+08:00 ] 218.241.187.34 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:41:07+08:00 ] 124.202.174.46 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:41:08+08:00 ] 124.202.174.46 /subscribe/2
+ERR: 非法操作:2
+
+[ 2017-03-29T13:41:35+08:00 ] 101.226.66.174 /index/home/course/course/course/course/course/subscribe/subscribed
+ERR: Empty Input
+
+[ 2017-03-29T13:46:07+08:00 ] 124.202.174.46 /index/a
+ERR: 非法操作:a
+
+[ 2017-03-29T13:46:08+08:00 ] 124.202.174.46 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:46:08+08:00 ] 124.202.174.46 /subscribe/2
+ERR: 非法操作:2
+
+[ 2017-03-29T13:46:14+08:00 ] 124.202.174.46 /Course/2
+ERR: 非法操作:2
+
+[ 2017-03-29T13:46:17+08:00 ] 124.202.174.46 /Course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T13:54:54+08:00 ] 218.241.187.34 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T13:54:56+08:00 ] 218.241.187.34 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:55:06+08:00 ] 101.226.33.216 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:55:50+08:00 ] 218.241.187.34 /Course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T13:55:51+08:00 ] 218.241.187.34 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:56:48+08:00 ] 124.202.174.46 /Course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T13:58:57+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T13:58:58+08:00 ] 124.202.174.46 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T13:59:47+08:00 ] 124.202.174.46 /Course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T14:00:28+08:00 ] 124.202.174.46 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T14:01:13+08:00 ] 124.202.174.46 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T14:04:11+08:00 ] 218.241.187.34 /Course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T14:04:17+08:00 ] 218.241.187.34 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T14:05:56+08:00 ] 218.241.187.34 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T14:07:16+08:00 ] 218.241.187.34 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T14:08:28+08:00 ] 124.202.174.46 /Course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T14:08:29+08:00 ] 124.202.174.46 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T14:09:34+08:00 ] 218.241.187.34 /Course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T14:09:37+08:00 ] 218.241.187.34 /Course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T14:09:38+08:00 ] 218.241.187.34 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T14:19:28+08:00 ] 218.241.187.34 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T14:19:39+08:00 ] 218.241.187.34 /Course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T14:19:42+08:00 ] 218.241.187.34 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T14:20:19+08:00 ] 124.202.174.46 /Course/2
+ERR: 非法操作:2
+
+[ 2017-03-29T14:20:21+08:00 ] 124.202.174.46 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T14:25:52+08:00 ] 124.202.174.46 /Course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T14:25:55+08:00 ] 124.202.174.46 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T14:26:40+08:00 ] 124.202.174.46 /Course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T14:26:42+08:00 ] 124.202.174.46 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T14:26:53+08:00 ] 124.202.174.46 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T14:30:29+08:00 ] 124.202.174.46 /Course/2
+ERR: 非法操作:2
+
+[ 2017-03-29T14:30:32+08:00 ] 124.202.174.46 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T14:37:02+08:00 ] 218.241.187.34 /Subscribe/2
+ERR: 非法操作:2
+
+[ 2017-03-29T14:37:33+08:00 ] 218.241.187.34 /Course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T14:38:18+08:00 ] 61.148.242.139 /Course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T14:38:22+08:00 ] 61.148.242.139 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T14:38:51+08:00 ] 61.148.242.139 /course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T14:39:11+08:00 ] 61.148.242.139 /Course/3
+ERR: 非法操作:3
+
+[ 2017-03-29T14:39:13+08:00 ] 61.148.242.139 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T14:39:26+08:00 ] 61.148.242.139 /Course/3
+ERR: 非法操作:3
+
+[ 2017-03-29T14:39:37+08:00 ] 61.148.242.139 /course/3
+ERR: 非法操作:3
+
+[ 2017-03-29T14:39:57+08:00 ] 61.148.242.139 /Subscribe/2
+ERR: 非法操作:2
+
+[ 2017-03-29T14:39:57+08:00 ] 61.148.242.139 /Subscribe/1-1
+ERR: 非法操作:1-1
+
+[ 2017-03-29T14:40:10+08:00 ] 61.148.242.139 /Subscribe/2
+ERR: 非法操作:2
+
+[ 2017-03-29T14:40:10+08:00 ] 61.148.242.139 /Subscribe/1-1
+ERR: 非法操作:1-1
+
+[ 2017-03-29T14:40:15+08:00 ] 61.148.242.139 /course/3
+ERR: 非法操作:3
+
+[ 2017-03-29T14:40:26+08:00 ] 61.148.242.139 /course/3
+ERR: 非法操作:3
+
+[ 2017-03-29T14:40:33+08:00 ] 61.148.242.139 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T14:41:05+08:00 ] 61.148.242.139 /course/3
+ERR: 非法操作:3
+
+[ 2017-03-29T14:41:59+08:00 ] 61.148.242.139 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T14:42:01+08:00 ] 183.57.53.196 /index/home/subscribe/subscribe/subscribe/subscribed
+ERR: Empty Input
+
+[ 2017-03-29T14:42:09+08:00 ] 61.148.242.139 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T14:42:15+08:00 ] 61.148.242.139 /Subscribe/2
+ERR: 非法操作:2
+
+[ 2017-03-29T14:42:15+08:00 ] 61.148.242.139 /Subscribe/1-1
+ERR: 非法操作:1-1
+
+[ 2017-03-29T14:42:29+08:00 ] 61.148.242.139 /Subscribe/2
+ERR: 非法操作:2
+
+[ 2017-03-29T14:42:29+08:00 ] 61.148.242.139 /Subscribe/1-1
+ERR: 非法操作:1-1
+
+[ 2017-03-29T14:45:26+08:00 ] 218.241.187.34 /phpMyAdmin
+ERR: 无法加载控制器:PhpMyAdmin
+
+[ 2017-03-29T15:20:48+08:00 ] 180.153.214.176 /course/list?cid%25253D2
+ERR: 非法操作:list
+
+[ 2017-03-29T15:21:01+08:00 ] 115.159.220.168 /course/list?cid%25253D2
+ERR: 非法操作:list
+
+[ 2017-03-29T16:05:38+08:00 ] 124.202.174.46 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T16:05:40+08:00 ] 124.202.174.46 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T16:05:41+08:00 ] 124.202.174.46 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T16:06:05+08:00 ] 124.202.174.46 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T16:06:06+08:00 ] 124.202.174.46 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T16:06:19+08:00 ] 124.202.174.46 /Style/js/jquery.js
+ERR: 无法加载控制器:Style
+
+[ 2017-03-29T16:06:51+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003572s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003614s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000483s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000527s ]
+
+[ 2017-03-29T16:07:32+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004155s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004192s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000094s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000349s ]
+
+[ 2017-03-29T16:07:48+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003323s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003350s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000346s ]
+
+[ 2017-03-29T16:10:55+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000514s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003286s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003313s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000090s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000112s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000319s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000348s ]
+
+[ 2017-03-29T16:11:07+08:00 ] 124.202.174.46 /course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T16:11:11+08:00 ] 124.202.174.46 /course/2
+ERR: 非法操作:2
+
+[ 2017-03-29T16:11:15+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:11:15+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:11:15+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003785s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003820s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000100s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000667s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000701s ]
+
+[ 2017-03-29T16:11:37+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:11:37+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000507s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003451s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003479s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000093s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000344s ]
+
+[ 2017-03-29T16:12:48+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:12:49+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000584s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003754s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003791s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000352s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000382s ]
+
+[ 2017-03-29T16:12:49+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:13:20+08:00 ] 218.241.187.34 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:13:21+08:00 ] 218.241.187.34 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:13:21+08:00 ] 218.241.187.34 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000711s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004060s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004133s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000143s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000357s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000388s ]
+
+[ 2017-03-29T16:13:22+08:00 ] 218.241.187.34 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:13:22+08:00 ] 218.241.187.34 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:13:22+08:00 ] 218.241.187.34 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000568s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003584s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003611s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000100s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000338s ]
+
+[ 2017-03-29T16:14:23+08:00 ] 218.241.187.34 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:14:24+08:00 ] 218.241.187.34 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:14:24+08:00 ] 218.241.187.34 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003244s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003270s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000094s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000349s ]
+
+[ 2017-03-29T16:15:02+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:15:03+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:15:03+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003308s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003335s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000113s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000400s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000437s ]
+
+[ 2017-03-29T16:15:13+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:15:13+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:15:13+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003230s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003271s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000091s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000287s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000315s ]
+
+[ 2017-03-29T16:15:27+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:15:27+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:15:27+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000607s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0007s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003252s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003286s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000102s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000328s ]
+
+[ 2017-03-29T16:15:46+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:15:46+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:15:46+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003276s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003303s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000113s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000341s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000372s ]
+
+[ 2017-03-29T16:15:59+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:15:59+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:16:00+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000481s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003670s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003717s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000097s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000330s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-03-29T16:16:56+08:00 ] 218.241.187.34 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:16:56+08:00 ] 218.241.187.34 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:16:56+08:00 ] 218.241.187.34 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000513s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003637s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003670s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000097s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000341s ]
+
+[ 2017-03-29T16:17:19+08:00 ] 218.241.187.34 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:17:19+08:00 ] 218.241.187.34 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:17:19+08:00 ] 218.241.187.34 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000513s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003892s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003925s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000095s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000372s ]
+
+[ 2017-03-29T16:18:00+08:00 ] 218.241.187.34 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:18:00+08:00 ] 218.241.187.34 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:18:00+08:00 ] 218.241.187.34 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000538s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003526s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003556s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000095s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000313s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000342s ]
+
+[ 2017-03-29T16:19:18+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000481s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003195s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003222s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000115s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000324s ]
+
+[ 2017-03-29T16:19:38+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000524s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0096s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004838s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004892s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000408s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000447s ]
+
+[ 2017-03-29T16:20:13+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000503s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0007s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003808s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003844s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000106s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000351s ]
+
+[ 2017-03-29T16:20:34+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003218s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003246s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000095s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000119s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000301s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000334s ]
+
+[ 2017-03-29T16:20:45+08:00 ] 218.241.187.34 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:20:45+08:00 ] 218.241.187.34 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:20:45+08:00 ] 218.241.187.34 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0008s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003685s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003713s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000096s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000120s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000365s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000402s ]
+
+[ 2017-03-29T16:21:02+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000533s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003616s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003643s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000103s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000127s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000353s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000384s ]
+
+[ 2017-03-29T16:21:11+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:21:11+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:21:11+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000595s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0007s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003677s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003716s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000165s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000436s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000475s ]
+
+[ 2017-03-29T16:22:05+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000581s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0008s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004536s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004583s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000156s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000514s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000566s ]
+
+[ 2017-03-29T16:22:07+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000755s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0007s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003621s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003652s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000105s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000377s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000408s ]
+
+[ 2017-03-29T16:22:40+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0007s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003475s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003502s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000094s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000352s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000383s ]
+
+[ 2017-03-29T16:22:41+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003786s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003834s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000096s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000356s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000392s ]
+
+[ 2017-03-29T16:23:12+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003528s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003557s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000099s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000387s ]
+
+[ 2017-03-29T16:23:32+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000557s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003597s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003636s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000335s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000373s ]
+
+[ 2017-03-29T16:23:43+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000489s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003503s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003549s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000102s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000130s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000333s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000371s ]
+
+[ 2017-03-29T16:23:44+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000589s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004387s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004415s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000103s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-03-29T16:24:42+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000532s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003339s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003365s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000319s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-03-29T16:25:20+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0007s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004274s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004310s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000331s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000372s ]
+
+[ 2017-03-29T16:25:56+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000540s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004139s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004175s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000360s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000392s ]
+
+[ 2017-03-29T16:26:33+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003856s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003894s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000115s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000371s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000409s ]
+
+[ 2017-03-29T16:26:56+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000593s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003325s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003352s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000097s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000120s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-03-29T16:27:34+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000604s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0008s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003594s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003621s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000104s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000365s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000397s ]
+
+[ 2017-03-29T16:28:09+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000526s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003518s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003546s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000135s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000450s ]
+
+[ 2017-03-29T16:28:27+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000560s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004048s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004075s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000094s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000360s ]
+
+[ 2017-03-29T16:28:52+08:00 ] 124.202.174.46 /course/3
+ERR: 非法操作:3
+
+[ 2017-03-29T16:28:58+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:28:58+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003271s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003298s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000326s ]
+
+[ 2017-03-29T16:32:39+08:00 ] 218.241.187.34 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:32:39+08:00 ] 218.241.187.34 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003446s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003482s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000109s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000352s ]
+
+[ 2017-03-29T16:33:08+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:33:08+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000575s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003223s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003251s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000110s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000327s ]
+
+[ 2017-03-29T16:33:08+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:33:28+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:33:28+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:33:28+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000560s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003778s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003811s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000103s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000433s ]
+
+[ 2017-03-29T16:34:00+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:34:00+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:34:00+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000543s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003224s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003253s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000096s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000119s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000348s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000378s ]
+
+[ 2017-03-29T16:34:09+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:34:09+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:34:09+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000545s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000084s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003407s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003433s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000093s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000353s ]
+
+[ 2017-03-29T16:34:31+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:34:32+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:34:32+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000493s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003187s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003214s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000341s ]
+
+[ 2017-03-29T16:35:01+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:35:03+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:35:03+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003921s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003949s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000098s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000326s ]
+
+[ 2017-03-29T16:35:08+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:35:08+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:35:08+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000693s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003588s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003624s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000332s ]
+
+[ 2017-03-29T16:35:20+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:35:21+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:35:21+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003406s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003447s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000111s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000344s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000381s ]
+
+[ 2017-03-29T16:35:39+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:35:40+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003333s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003360s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000104s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000342s ]
+
+[ 2017-03-29T16:35:40+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:36:16+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:36:20+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:36:20+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000708s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003344s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003370s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000106s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000344s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000383s ]
+
+[ 2017-03-29T16:37:21+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:37:52+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0008s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003335s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003364s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000090s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000114s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000330s ]
+
+[ 2017-03-29T16:38:46+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:38:46+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:38:46+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0007s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004389s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004422s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000097s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000130s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000433s ]
+
+[ 2017-03-29T16:39:16+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000542s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003561s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003599s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000105s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000327s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000365s ]
+
+[ 2017-03-29T16:41:39+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000533s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0007s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003397s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003436s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000095s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000119s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000389s ]
+
+[ 2017-03-29T16:41:45+08:00 ] 218.241.187.34 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:41:45+08:00 ] 218.241.187.34 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:41:45+08:00 ] 218.241.187.34 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000497s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003422s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003448s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000094s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000323s ]
+
+[ 2017-03-29T16:42:17+08:00 ] 218.241.187.34 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:42:18+08:00 ] 218.241.187.34 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:42:18+08:00 ] 218.241.187.34 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000486s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003473s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000096s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000453s ]
+
+[ 2017-03-29T16:42:35+08:00 ] 218.241.187.34 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:42:36+08:00 ] 218.241.187.34 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:42:36+08:00 ] 218.241.187.34 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000533s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0008s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005353s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005390s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000107s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000130s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000352s ]
+
+[ 2017-03-29T16:44:40+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003258s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003291s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000451s ]
+
+[ 2017-03-29T16:44:42+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000556s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003752s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003779s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000093s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000345s ]
+
+[ 2017-03-29T16:45:02+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000565s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003749s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003778s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000100s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000335s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000367s ]
+
+[ 2017-03-29T16:45:57+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004276s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004311s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000407s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000438s ]
+
+[ 2017-03-29T16:46:05+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T16:46:06+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000533s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003877s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003911s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000093s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000397s ]
+
+[ 2017-03-29T16:46:06+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T17:03:45+08:00 ] 61.148.242.139 /course/3
+ERR: 非法操作:3
+
+[ 2017-03-29T17:03:57+08:00 ] 61.148.242.139 /Subscribe/2
+ERR: 非法操作:2
+
+[ 2017-03-29T17:03:57+08:00 ] 61.148.242.139 /Subscribe/1-1
+ERR: 非法操作:1-1
+
+[ 2017-03-29T17:07:14+08:00 ] 124.202.174.46 /course/2
+ERR: 非法操作:2
+
+[ 2017-03-29T17:07:16+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T17:07:16+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003668s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003697s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000096s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000337s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000379s ]
+
+[ 2017-03-29T17:07:18+08:00 ] 124.202.174.46 /course/2
+ERR: 非法操作:2
+
+[ 2017-03-29T17:07:24+08:00 ] 124.202.174.46 /course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T17:07:36+08:00 ] 124.202.174.46 /course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T17:07:38+08:00 ] 124.202.174.46 /course/2
+ERR: 非法操作:2
+
+[ 2017-03-29T17:07:49+08:00 ] 124.202.174.46 /course/2
+ERR: 非法操作:2
+
+[ 2017-03-29T17:07:54+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T17:07:54+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000504s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003675s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003708s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000093s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000339s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000370s ]
+
+[ 2017-03-29T17:08:37+08:00 ] 218.241.187.34 /course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T17:08:48+08:00 ] 218.241.187.34 /Subscribe/2
+ERR: 非法操作:2
+
+[ 2017-03-29T17:08:48+08:00 ] 218.241.187.34 /Subscribe/1-1
+ERR: 非法操作:1-1
+
+[ 2017-03-29T17:08:57+08:00 ] 218.241.187.34 /course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T17:09:20+08:00 ] 218.241.187.34 /Subscribe/2
+ERR: 非法操作:2
+
+[ 2017-03-29T17:09:20+08:00 ] 218.241.187.34 /Subscribe/1-1
+ERR: 非法操作:1-1
+
+[ 2017-03-29T17:09:47+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T17:09:47+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0007s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004023s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004060s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000096s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000120s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000328s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-03-29T17:10:00+08:00 ] 124.202.174.46 /course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T17:10:02+08:00 ] 124.202.174.46 /course/2
+ERR: 非法操作:2
+
+[ 2017-03-29T17:10:08+08:00 ] 124.202.174.46 /course/2
+ERR: 非法操作:2
+
+[ 2017-03-29T17:17:16+08:00 ] 218.241.187.34 /subscribe/2
+ERR: 非法操作:2
+
+[ 2017-03-29T17:20:14+08:00 ] 124.202.174.46 /course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T17:21:30+08:00 ] 124.202.174.46 /course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T17:21:43+08:00 ] 124.202.174.46 /Subscribe/2
+ERR: 非法操作:2
+
+[ 2017-03-29T17:21:43+08:00 ] 124.202.174.46 /Subscribe/1-1
+ERR: 非法操作:1-1
+
+[ 2017-03-29T17:21:57+08:00 ] 124.202.174.46 /Subscribe/2
+ERR: 非法操作:2
+
+[ 2017-03-29T17:21:58+08:00 ] 124.202.174.46 /Subscribe/1-1
+ERR: 非法操作:1-1
+
+[ 2017-03-29T17:22:33+08:00 ] 124.202.174.46 /course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T17:22:52+08:00 ] 124.202.174.46 /subscribe/course/course/?cid=2
+ERR: 非法操作:course
+
+[ 2017-03-29T17:22:54+08:00 ] 124.202.174.46 /subscribe/course/course/?cid=2
+ERR: 非法操作:course
+
+[ 2017-03-29T17:23:01+08:00 ] 101.226.33.204 /subscribe/course/course/?cid=2
+ERR: 非法操作:course
+
+[ 2017-03-29T17:23:09+08:00 ] 124.202.174.46 /subscribe/course/course/?cid=2
+ERR: 非法操作:course
+
+[ 2017-03-29T17:23:13+08:00 ] 124.202.174.46 /subscribe/course/course/?cid=2
+ERR: 非法操作:course
+
+[ 2017-03-29T17:24:00+08:00 ] 124.202.174.46 /Subscribe/1-1
+ERR: 非法操作:1-1
+
+[ 2017-03-29T17:24:00+08:00 ] 124.202.174.46 /Subscribe/2
+ERR: 非法操作:2
+
+[ 2017-03-29T17:24:01+08:00 ] 124.202.174.46 /Subscribe/2
+ERR: 非法操作:2
+
+[ 2017-03-29T17:24:01+08:00 ] 124.202.174.46 /Subscribe/1-1
+ERR: 非法操作:1-1
+
+[ 2017-03-29T17:24:02+08:00 ] 124.202.174.46 /Subscribe/2
+ERR: 非法操作:2
+
+[ 2017-03-29T17:24:02+08:00 ] 124.202.174.46 /Subscribe/1-1
+ERR: 非法操作:1-1
+
+[ 2017-03-29T17:24:02+08:00 ] 124.202.174.46 /Subscribe/2
+ERR: 非法操作:2
+
+[ 2017-03-29T17:24:03+08:00 ] 124.202.174.46 /Subscribe/1-1
+ERR: 非法操作:1-1
+
+[ 2017-03-29T17:24:03+08:00 ] 124.202.174.46 /Subscribe/2
+ERR: 非法操作:2
+
+[ 2017-03-29T17:24:03+08:00 ] 124.202.174.46 /Subscribe/1-1
+ERR: 非法操作:1-1
+
+[ 2017-03-29T17:24:03+08:00 ] 124.202.174.46 /Subscribe/1-1
+ERR: 非法操作:1-1
+
+[ 2017-03-29T17:24:03+08:00 ] 124.202.174.46 /Subscribe/2
+ERR: 非法操作:2
+
+[ 2017-03-29T17:24:04+08:00 ] 124.202.174.46 /Subscribe/2
+ERR: 非法操作:2
+
+[ 2017-03-29T17:24:04+08:00 ] 124.202.174.46 /Subscribe/1-1
+ERR: 非法操作:1-1
+
+[ 2017-03-29T17:24:21+08:00 ] 124.202.174.46 /Subscribe/2
+ERR: 非法操作:2
+
+[ 2017-03-29T17:24:21+08:00 ] 124.202.174.46 /Subscribe/1-1
+ERR: 非法操作:1-1
+
+[ 2017-03-29T17:24:24+08:00 ] 124.202.174.46 /Subscribe/2
+ERR: 非法操作:2
+
+[ 2017-03-29T17:24:24+08:00 ] 124.202.174.46 /Subscribe/1-1
+ERR: 非法操作:1-1
+
+[ 2017-03-29T17:24:31+08:00 ] 124.202.174.46 /Subscribe/2
+ERR: 非法操作:2
+
+[ 2017-03-29T17:24:31+08:00 ] 124.202.174.46 /Subscribe/1-1
+ERR: 非法操作:1-1
+
+[ 2017-03-29T17:24:57+08:00 ] 218.241.187.34 /Subscribe/2
+ERR: 非法操作:2
+
+[ 2017-03-29T17:24:57+08:00 ] 218.241.187.34 /Subscribe/1-1
+ERR: 非法操作:1-1
+
+[ 2017-03-29T17:25:09+08:00 ] 218.241.187.34 /course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T17:25:11+08:00 ] 218.241.187.34 /subscribe/course/course/?cid=2
+ERR: 非法操作:course
+
+[ 2017-03-29T17:25:13+08:00 ] 218.241.187.34 /subscribe/course/course/?cid=2
+ERR: 非法操作:course
+
+[ 2017-03-29T17:25:15+08:00 ] 218.241.187.34 /subscribe/course/course/?cid=2
+ERR: 非法操作:course
+
+[ 2017-03-29T17:25:37+08:00 ] 218.241.187.34 /course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T17:26:19+08:00 ] 218.241.187.34 /Subscribe/2
+ERR: 非法操作:2
+
+[ 2017-03-29T17:26:19+08:00 ] 218.241.187.34 /Subscribe/1-1
+ERR: 非法操作:1-1
+
+[ 2017-03-29T17:26:24+08:00 ] 218.241.187.34 /course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T17:26:28+08:00 ] 218.241.187.34 /subscribe/course/text/?lid=3
+ERR: 非法操作:course
+
+[ 2017-03-29T17:26:38+08:00 ] 180.153.201.28 /subscribe/course/text/?lid=3
+ERR: 非法操作:course
+
+[ 2017-03-29T17:26:54+08:00 ] 218.241.187.34 /course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T17:28:33+08:00 ] 124.202.174.46 /course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T17:28:37+08:00 ] 124.202.174.46 /Subscribe/2
+ERR: 非法操作:2
+
+[ 2017-03-29T17:28:37+08:00 ] 124.202.174.46 /Subscribe/1-1
+ERR: 非法操作:1-1
+
+[ 2017-03-29T17:39:11+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T17:39:11+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000495s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003523s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003567s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000104s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000133s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000483s ]
+
+[ 2017-03-29T17:40:14+08:00 ] 218.241.187.34 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T17:40:14+08:00 ] 218.241.187.34 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000527s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003664s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003692s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000111s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000355s ]
+
+[ 2017-03-29T17:40:55+08:00 ] 124.202.174.46 /Course/4
+ERR: 非法操作:4
+
+[ 2017-03-29T17:40:55+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000544s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003512s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003547s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000360s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-03-29T17:41:27+08:00 ] 124.202.174.46 /Course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T17:41:27+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0007s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000155s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000218s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005719s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005764s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000135s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000169s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000527s ]
+
+[ 2017-03-29T17:43:59+08:00 ] 101.226.33.201 /course/list?cid%2525253D2
+ERR: 非法操作:list
+
+[ 2017-03-29T17:50:49+08:00 ] 218.241.187.34 /Course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T17:50:49+08:00 ] 218.241.187.34 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0007s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004228s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004264s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000098s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000381s ]
+
+[ 2017-03-29T17:53:56+08:00 ] 218.241.187.34 /Course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T17:53:56+08:00 ] 218.241.187.34 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000728s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000118s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003917s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003946s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000418s ]
+
+[ 2017-03-29T17:54:10+08:00 ] 218.241.187.34 /Course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T17:54:10+08:00 ] 218.241.187.34 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000495s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003713s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003755s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000116s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000333s ]
+
+[ 2017-03-29T17:54:39+08:00 ] 218.241.187.34 /Course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T17:54:39+08:00 ] 218.241.187.34 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000498s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0008s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004318s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004356s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000133s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000332s ]
+
+[ 2017-03-29T17:56:23+08:00 ] 124.202.174.46 /Course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T17:56:23+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0009s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004146s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004183s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000133s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000327s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000370s ]
+
+[ 2017-03-29T17:56:27+08:00 ] 124.202.174.46 /Course/3
+ERR: 非法操作:3
+
+[ 2017-03-29T17:56:27+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001114s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0007s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004518s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004587s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000426s ]
+
+[ 2017-03-29T17:56:29+08:00 ] 124.202.174.46 /Course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T17:56:29+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004080s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004111s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000106s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000388s ]
+
+[ 2017-03-29T17:59:06+08:00 ] 218.241.187.34 /Course/2
+ERR: 非法操作:2
+
+[ 2017-03-29T17:59:06+08:00 ] 218.241.187.34 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000619s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003738s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003768s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000102s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000127s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000401s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000435s ]
+
+[ 2017-03-29T18:00:32+08:00 ] 124.202.174.46 /course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T18:00:39+08:00 ] 124.202.174.46 /Course/2
+ERR: 非法操作:2
+
+[ 2017-03-29T18:00:39+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000507s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003661s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003711s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000099s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000338s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000377s ]
+
+[ 2017-03-29T18:00:53+08:00 ] 124.202.174.46 /Course/2
+ERR: 非法操作:2
+
+[ 2017-03-29T18:00:56+08:00 ] 124.202.174.46 /Course/3
+ERR: 非法操作:3
+
+[ 2017-03-29T18:00:56+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003870s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003899s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000095s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000348s ]
+
+[ 2017-03-29T18:01:00+08:00 ] 124.202.174.46 /course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T18:01:03+08:00 ] 124.202.174.46 /course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T18:01:17+08:00 ] 124.202.174.46 /course/1
+ERR: 非法操作:1
+
+[ 2017-03-29T18:05:43+08:00 ] 124.202.174.46 /Course/2
+ERR: 非法操作:2
+
+[ 2017-03-29T18:05:43+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0007s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003477s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003506s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000098s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000375s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000405s ]
+
+[ 2017-03-29T18:06:00+08:00 ] 124.202.174.46 /Course/2
+ERR: 非法操作:2
+
+[ 2017-03-29T18:39:13+08:00 ] 218.241.187.34 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0007s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005740s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005781s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000477s ]
+
+[ 2017-03-29T18:39:30+08:00 ] 218.241.187.34 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000584s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004431s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004462s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000100s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2017-03-29T18:41:13+08:00 ] 218.241.187.34 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003784s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003811s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000093s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000338s ]
+
+[ 2017-03-29T18:41:30+08:00 ] 218.241.187.34 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000484s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0008s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005359s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005394s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000114s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000343s ]
+
+[ 2017-03-29T18:44:32+08:00 ] 218.241.187.34 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000525s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0007s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006058s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006102s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000139s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000169s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000469s ]
+
+[ 2017-03-29T18:45:07+08:00 ] 218.241.187.34 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003776s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003802s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000095s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000119s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000328s ]
+
+[ 2017-03-29T18:45:27+08:00 ] 218.241.187.34 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003650s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000094s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000381s ]
+
+[ 2017-03-29T18:51:33+08:00 ] 218.241.187.34 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000476s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003525s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003551s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000096s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000119s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000351s ]
+
+[ 2017-03-29T18:52:16+08:00 ] 218.241.187.34 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000589s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003723s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003751s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000348s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000388s ]
+
+[ 2017-03-29T18:58:18+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0007s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005631s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005668s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000155s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000432s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000469s ]
+
+[ 2017-03-29T18:59:16+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000525s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004045s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004073s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000331s ]
+
+[ 2017-03-29T18:59:44+08:00 ] 218.241.187.34 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003602s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003629s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000105s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000345s ]
+
+[ 2017-03-29T19:00:40+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000489s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003604s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003632s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000094s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000119s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000356s ]
+
+[ 2017-03-29T19:00:45+08:00 ] 183.3.234.52 /subscribe/back
+ERR: Login Please
+
+[ 2017-03-29T19:07:55+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000564s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003730s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003760s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000100s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000350s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000381s ]
+
+[ 2017-03-29T19:08:13+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000634s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003969s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000349s ]
+
+[ 2017-03-29T19:11:31+08:00 ] 218.241.187.34 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000572s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004548s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004582s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000472s ]
+
+[ 2017-03-29T19:11:41+08:00 ] 101.226.89.115 /Course/index.html?cid=1
+ERR: Login Please
+
+[ 2017-03-29T19:30:46+08:00 ] 140.207.54.76 /subscribe/back
+ERR: Login Please
+
+[ 2017-03-29T19:40:22+08:00 ] 218.241.187.34 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000514s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0005s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003617s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003674s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000093s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000339s ]
+
+[ 2017-03-29T19:40:28+08:00 ] 124.202.174.46 /course/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000624s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT `comment` FROM `course` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+NOTIC: [2] Division by zero /var/www/zlApp/App/Home/Controller/CourseController.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+NOTIC: [8] Undefined index: title /var/www/zlApp/App/Runtime/Cache/Home/ae9d5e9256f39eb72682f4d9a93a5680.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004205s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004249s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000140s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000472s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000522s ]
+
+[ 2017-03-29T19:56:01+08:00 ] 180.153.214.188 /course/lists/?cid%3D3
+ERR: Login Please
+
+[ 2017-03-29T19:56:01+08:00 ] 101.226.61.207 /course/lists/?cid%3D3
+ERR: Login Please
+
+[ 2017-03-29T19:56:01+08:00 ] 101.226.125.16 /course/lists/?cid%3D3
+ERR: Login Please
+
+[ 2017-03-29T19:56:01+08:00 ] 117.185.27.114 /course/lists/?cid%3D3
+ERR: Login Please
+
+[ 2017-03-29T20:00:10+08:00 ] 183.57.53.177 /subscribe/subscribed/?cid%3D1
+ERR: Login Please
+
+[ 2017-03-29T20:00:19+08:00 ] 101.226.33.216 /subscribe/subscribed/?cid%3D1
+ERR: Login Please
+
+[ 2017-03-29T20:00:48+08:00 ] 183.3.234.44 /subscribe/back
+ERR: Login Please
+
+[ 2017-03-29T20:02:11+08:00 ] 101.226.65.104 /course/course/unsubscribe?lid%3D1
+ERR: Login Please
+
+[ 2017-03-29T20:03:02+08:00 ] 61.151.226.202 /course/course/?cid%3D3
+ERR: Login Please
+
+[ 2017-03-29T20:04:03+08:00 ] 112.90.82.218 /course/unsubscribe?cid%3D2
+ERR: Login Please
+
+[ 2017-03-29T20:04:13+08:00 ] 101.226.33.202 /course/unsubscribe?cid%3D2
+ERR: Login Please
+
+[ 2017-03-29T20:08:39+08:00 ] 101.226.33.221 /Subscribe/subscribed.html?cid%3D2
+ERR: Login Please
+
+[ 2017-03-29T20:08:57+08:00 ] 117.94.87.246 /Subscribe/subscribed.html?cid%3D2
+ERR: Login Please
+
+[ 2017-03-29T20:17:31+08:00 ] 140.207.185.112 /course/unsubscribe.html?lid%3D2
+ERR: Login Please
+
+[ 2017-03-29T20:36:59+08:00 ] 140.207.185.111 /subscribe/index.html?cid%3D
+ERR: Login Please
+
+[ 2017-03-29T20:43:01+08:00 ] 101.226.64.174 /subscribe/course/text/?lid%3D3
+ERR: Login Please
+
+[ 2017-03-29T20:43:11+08:00 ] 101.226.89.123 /subscribe/course/text/?lid%3D3
+ERR: Login Please
+
+[ 2017-03-29T21:00:51+08:00 ] 101.226.103.71 /subscribe/back
+ERR: Login Please
+
+[ 2017-03-29T21:50:00+08:00 ] 112.65.193.15 /course/list?cid%252525253D2
+ERR: Login Please
+
+[ 2017-03-29T22:02:33+08:00 ] 180.153.214.188 /course/lists/?cid%253D3
+ERR: Login Please
+
+[ 2017-03-29T22:02:56+08:00 ] 180.153.81.203 /course/unsubscribe/?lid%3D3
+ERR: Login Please
+
+[ 2017-03-29T22:09:04+08:00 ] 180.153.214.152 /Course/index.html?cid%3D1
+ERR: Login Please
+
+[ 2017-03-29T22:09:04+08:00 ] 61.151.226.202 /Course/index.html?cid%3D1
+ERR: Login Please
+
+[ 2017-03-29T22:09:04+08:00 ] 180.153.214.192 /Course/index.html?cid%3D1
+ERR: Login Please
+
+[ 2017-03-29T22:09:12+08:00 ] 101.226.66.181 /Course/index.html?cid%3D1
+ERR: Login Please
+
+[ 2017-03-29T22:37:56+08:00 ] 101.226.33.220 /Course/course.html?cid%253D2
+ERR: Login Please
+
+[ 2017-03-29T22:47:02+08:00 ] 180.153.206.20 /course/course/?cid%253D3
+ERR: Login Please
+
+[ 2017-03-29T22:49:59+08:00 ] 101.226.33.206 /course/course/unsubscribe?lid%253D1
+ERR: Login Please
+
+[ 2017-03-29T22:56:29+08:00 ] 180.153.205.254 /subscribe/course/text/?lid%253D3
+ERR: Login Please
+
+[ 2017-03-29T23:13:54+08:00 ] 101.226.33.224 /Subscribe/subscribed.html?cid%253D2
+ERR: Login Please
+
+[ 2017-03-29T23:16:16+08:00 ] 180.153.81.212 /subscribe/subscribed/?cid%253D1
+ERR: Login Please
+
+[ 2017-03-29T23:30:20+08:00 ] 101.226.51.228 /course/unsubscribe.html?lid%253D2
+ERR: Login Please
+

@@ -1,0 +1,172 @@
+[ 2017-03-24T14:53:38+08:00 ] ::1 /zlAPP/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001127s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001204s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007151s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007222s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000798s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000850s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000838s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000874s ]
+
+[ 2017-03-24T14:54:08+08:00 ] ::1 /zlAPP/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000899s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000741s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000787s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000689s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000757s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000650s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000687s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000722s ]
+
+[ 2017-03-24T16:10:27+08:00 ] 218.241.187.34 /css/mui.min.css
+ERR: 无法加载控制器:Css
+
+[ 2017-03-24T16:10:27+08:00 ] 218.241.187.34 /js/mui.min.js
+ERR: 无法加载控制器:Js
+
+[ 2017-03-24T16:10:31+08:00 ] 218.241.187.34 /css/mui.min.css
+ERR: 无法加载控制器:Css
+
+[ 2017-03-24T16:10:38+08:00 ] 218.241.187.34 /?code=011u3yEP0AfdB92eckDP0tmIEP0u3yEc&state=wlmx
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `user` (`openid`) VALUES (NULL)
+
+[ 2017-03-24T16:13:34+08:00 ] 218.241.187.34 /css/mui.min.css
+ERR: 无法加载控制器:Css
+
+[ 2017-03-24T16:13:34+08:00 ] 218.241.187.34 /js/mui.min.js
+ERR: 无法加载控制器:Js
+
+[ 2017-03-24T16:13:34+08:00 ] 218.241.187.34 /css/mui.min.css
+ERR: 无法加载控制器:Css
+
+[ 2017-03-24T16:13:34+08:00 ] 218.241.187.34 /js/mui.min.js
+ERR: 无法加载控制器:Js
+
+[ 2017-03-24T16:13:38+08:00 ] 218.241.187.34 /css/mui.min.css
+ERR: 无法加载控制器:Css
+
+[ 2017-03-24T16:13:38+08:00 ] 218.241.187.34 /js/mui.min.js
+ERR: 无法加载控制器:Js
+
+[ 2017-03-24T16:13:38+08:00 ] 218.241.187.34 /css/mui.min.css
+ERR: 无法加载控制器:Css
+
+[ 2017-03-24T16:13:38+08:00 ] 218.241.187.34 /js/mui.min.js
+ERR: 无法加载控制器:Js
+
+[ 2017-03-24T16:14:35+08:00 ] 218.241.187.34 /css/mui.min.css
+ERR: 无法加载控制器:Css
+
+[ 2017-03-24T16:14:38+08:00 ] 218.241.187.34 /?code=011TbzTe0GFhpz1fZoQe09ZBTe0TbzTs&state=wlmx
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `user` (`openid`) VALUES (NULL)
+
+[ 2017-03-24T16:14:38+08:00 ] 218.241.187.34 /css/mui.min.css
+ERR: 无法加载控制器:Css
+
+[ 2017-03-24T16:14:38+08:00 ] 218.241.187.34 /js/mui.min.js
+ERR: 无法加载控制器:Js
+
+[ 2017-03-24T16:14:42+08:00 ] 218.241.187.34 /?code=011TbzTe0GFhpz1fZoQe09ZBTe0TbzTs&state=wlmx
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `user` (`openid`) VALUES (NULL)
+
+[ 2017-03-24T16:14:42+08:00 ] 218.241.187.34 /css/mui.min.css
+ERR: 无法加载控制器:Css
+
+[ 2017-03-24T16:14:42+08:00 ] 218.241.187.34 /js/mui.min.js
+ERR: 无法加载控制器:Js
+
+[ 2017-03-24T16:14:43+08:00 ] 218.241.187.34 /?code=011TbzTe0GFhpz1fZoQe09ZBTe0TbzTs&state=wlmx
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `user` (`openid`) VALUES (NULL)
+
+[ 2017-03-24T16:14:43+08:00 ] 218.241.187.34 /css/mui.min.css
+ERR: 无法加载控制器:Css
+
+[ 2017-03-24T16:14:43+08:00 ] 218.241.187.34 /js/mui.min.js
+ERR: 无法加载控制器:Js
+
+[ 2017-03-24T16:15:12+08:00 ] 218.241.187.34 /css/mui.min.css
+ERR: 无法加载控制器:Css
+
+[ 2017-03-24T16:15:12+08:00 ] 218.241.187.34 /js/mui.min.js
+ERR: 无法加载控制器:Js
+
+[ 2017-03-24T16:15:13+08:00 ] 218.241.187.34 /css/mui.min.css
+ERR: 无法加载控制器:Css
+
+[ 2017-03-24T16:15:13+08:00 ] 218.241.187.34 /js/mui.min.js
+ERR: 无法加载控制器:Js
+
+[ 2017-03-24T16:15:14+08:00 ] 218.241.187.34 /css/mui.min.css
+ERR: 无法加载控制器:Css
+
+[ 2017-03-24T16:15:14+08:00 ] 218.241.187.34 /js/mui.min.js
+ERR: 无法加载控制器:Js
+
+[ 2017-03-24T16:15:14+08:00 ] 218.241.187.34 /css/mui.min.css
+ERR: 无法加载控制器:Css
+
+[ 2017-03-24T16:15:14+08:00 ] 218.241.187.34 /js/mui.min.js
+ERR: 无法加载控制器:Js
+
+[ 2017-03-24T16:15:15+08:00 ] 218.241.187.34 /css/mui.min.css
+ERR: 无法加载控制器:Css
+
+[ 2017-03-24T16:15:15+08:00 ] 218.241.187.34 /js/mui.min.js
+ERR: 无法加载控制器:Js
+
+[ 2017-03-24T16:15:18+08:00 ] 218.241.187.34 /css/mui.min.css
+ERR: 无法加载控制器:Css
+
+[ 2017-03-24T16:15:18+08:00 ] 218.241.187.34 /js/mui.min.js
+ERR: 无法加载控制器:Js
+
+[ 2017-03-24T17:17:04+08:00 ] 14.152.69.117 /?code=051XIXHq0ZB04s1sLdIq0P67Iq0XIXHM&state=wlmx
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `user` (`openid`) VALUES (NULL)
+
+[ 2017-03-24T17:17:13+08:00 ] 124.202.174.46 /?code=051XIXHq0ZB04s1sLdIq0P67Iq0XIXHM&state=wlmx
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `user` (`openid`) VALUES (NULL)
+
+[ 2017-03-24T17:17:51+08:00 ] 124.202.174.46 /
+ERR: Empty Input
+
+[ 2017-03-24T17:18:21+08:00 ] 14.17.37.143 /?code=051XIXHq0ZB04s1sLdIq0P67Iq0XIXHM
+ERR: Empty Input
+
+[ 2017-03-24T17:18:31+08:00 ] 101.226.51.230 /?code=051XIXHq0ZB04s1sLdIq0P67Iq0XIXHM
+ERR: Empty Input
+
+[ 2017-03-24T17:53:15+08:00 ] 101.226.102.97 /course/index
+ERR: Login Please
+
+[ 2017-03-24T18:12:37+08:00 ] 101.226.89.116 /course/index?cid=1
+ERR: Login Please
+
+[ 2017-03-24T18:52:15+08:00 ] 114.242.250.196 /course/index?cid=1
+ERR: Login Please
+
+[ 2017-03-24T21:06:06+08:00 ] 180.163.2.118 /course/index?cid%3D1
+ERR: Login Please
+
