@@ -18,7 +18,20 @@
 	 <?php if(is_array($list)): $i = 0; $__LIST__ = $list;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$l): $mod = ($i % 2 );++$i;?><li id="subscribed-head-li" class="mui-table-view-cell ">
 	        <div class="mui-table">
 	            <div class="mui-table-cell mui-col-xs-10">
-	                <h4 class="mui-ellipsis"><span><?php echo ($l["title"]); ?>1</span><span style="float: right;margin-right: 50%"><?php echo ($l["author"]); ?>2</span><a href="http://zl.weilaimeixue.com/course/course/?cid=<?php echo ($l["id"]); ?>" style="position:absolute;left: 90%;top: 5px;color: black">更多></a></h4>
+	                <h4 class="mui-ellipsis">
+	                	<div style="float: left">
+	                		<div style="width: 27.5%;overflow: hidden;float: left;"><?php echo ($l["title"]); ?>
+	                		</div>...
+	                	</div>
+	                	<div style="float: left;">
+	                		<div style="position:absolute;left: 50%;top: 5px;overflow: hidden;float: left;"><?php echo ($l["author"]); ?>
+	                		</div>
+	                	</div>
+	                	<a href="http://zl.weilaimeixue.com/course/course/?cid=<?php echo ($l["id"]); ?>" style="position:absolute;left: 85%;top: 5px;color: black">
+	                		更多>
+	                		
+	                	</a>
+	                </h4>
 	                <h5><img style="width: 99%;height: 178px;margin-top: 20px;" src="<?php echo ($l["l_thumbnail"]); ?>"></h5>
 	                <p class="mui-h4 mui-ellipsis subscribed-head-p"><span><?php echo ($l["time"]); ?></span><a href="http://zl.weilaimeixue.com/course/text/?lid=<?php echo ($l["tid"]); ?>" style="float: right;color: #999">阅读全文</a></p>
 	            </div>

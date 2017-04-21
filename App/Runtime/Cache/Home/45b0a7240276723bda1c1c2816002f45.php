@@ -14,12 +14,12 @@
 </head>
 <body>
 <?php if(is_array($list)): $i = 0; $__LIST__ = $list;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$l): $mod = ($i % 2 );++$i;?><div class="mui-card">
-		<div class="mui-card-header mui-card-media" style="height:40vw;background-image:url(<?php echo ($l["l_banner"]); ?>)"><div>name</div></div>
+		<div class="mui-card-header mui-card-media" style="height:40vw;background-image:url(<?php echo ($l["l_banner"]); ?>)"><div></div></div>
 		<div class="mui-card-content">
 			<div class="mui-card-content-inner" style="padding-bottom: 0px;">
 				<p style=""><?php echo ($l["s_text"]); ?></p>
 				<p><span><?php echo ($l["time"]); ?></span>
-				<?php if($l["view"] == 1): ?><a href="http://zl.weilaimeixue.com/course/unsubscribe/?lid=<?php echo ($l["id"]); ?>" style="float: right;">阅读全文</a>
+				<?php if($l["view"] == 1): ?><a href="http://zl.weilaimeixue.com/course/unsubscribe?lid=<?php echo ($l["id"]); ?>" style="float: right;">阅读全文</a>
 				<?php else: ?> 
 				<a href="http://zl.weilaimeixue.com/subscribe/index/?cid=<?php echo ($t["id"]); ?>" style="float: right;">购买此文</a><?php endif; ?>
 				
@@ -29,4 +29,10 @@
 		</div>
 	</div><?php endforeach; endif; else: echo "" ;endif; ?>
 </body>
+<script src="/Style/mui/js/mui.min.js"></script>
+	<script>
+		mui.init({
+			swipeBack:true //启用右滑关闭功能
+		});
+	</script>
 </html>

@@ -57,3 +57,10 @@ function time_format($time, $now=null ){
     }
     return $r;
 }
+
+function br_insert($string,$index=12,$type='utf-8')
+{
+    $str1 = mb_substr($string, 0, $index ,'utf-8');
+    $str2 = mb_substr($string, $index,$index,'utf-8');
+    return $str1.'<br/>'.$str2;
+}

@@ -6,11 +6,11 @@ class SubscribeController extends HController
 {
 
 	private $appId = 'wx9922497712255467';
-  	private $appSecret = '724287764e286ffbb1e9bb9c3f4842be';
+  	private $appSecret = 'f5d5e9355c335edeec98c4d3695788e9';
 
+//付费页面首页，生成订单
 	public function index()
 	{
-    
 		$cid = I('get.cid');
     $uid = session('uid');
 		$res = D('Course') -> getSubscribeInfo($cid);
@@ -31,10 +31,12 @@ class SubscribeController extends HController
 		$this -> display();	
 	}
 
+//支付成功回调页面
 	public function success()
 	{
     $cid = I('get.cid');
     $uid = session('uid');
+  
     $r = D('Subscribe') -> postSubscribe($uid,$cid);
     if (!$r) {
       E("订阅失败，请联系管理员");
@@ -43,26 +45,24 @@ class SubscribeController extends HController
       $this -> assign('l',$res);
       $this -> display();
     }
-    
-	}
-
-  public function back(){
-
   }
 
+//已订阅页面
 	public function subscribed()
 	{	
     	$uid = session('uid');
     	$res = D('Subscribe','Logic') -> getSubscribedList($uid);
-	if($res){
-    	$this -> assign('list',$res);
-			$this -> display();
-	}else{
-	redirect('http://zl.weilaimeixue.com/',5,'您未订购任何课程');
-	}
+      // dump($res);
+      // exit;
+  	if($res){
+      	$this -> assign('list',$res);
+  			$this -> display();
+  	}else{
+        $this -> display('nosubscribe');
+  	}
 	}
 
-	private function js_info(){
+	public function js_info(){
 		  $jsapiTicket = $this->getJsApiTicket();
 
 	    // 注意 URL 一定要动态获取，不能 hardcode.
@@ -114,7 +114,7 @@ class SubscribeController extends HController
   }
 
   private function get_wx_token(){
-    $url = "https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wxfa282820084f726d&secret=724287764e286ffbb1e9bb9c3f4842be";
+    $url = "https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=".$this->appId."&secret=".$this->appSecret;
     $ch = curl_init();
     curl_setopt($ch,CURLOPT_URL,$url);
     curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE); // 对认证证书来源的检查
@@ -160,7 +160,7 @@ class SubscribeController extends HController
 
   private function getSign($a,$b,$c){
     
-    $appid = "wx9922497712255467";
+    $appid = $this->appId;//"wx9922497712255467";
     $nonceStr = $b;
     $package = "prepay_id=".$a;
     $signType = "MD5";

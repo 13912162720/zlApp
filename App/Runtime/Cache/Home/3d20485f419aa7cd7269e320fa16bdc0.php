@@ -60,7 +60,7 @@
 		id = <?php echo ($l["id"]); ?>;
 		
 		wx.config({
-		    debug: true,
+		    debug: false,
 		    appId: '<?php echo ($wx["appId"]); ?>',
 		    timestamp: <?php echo ($wx["timestamp"]); ?>,
 		    nonceStr: '<?php echo ($wx["nonceStr"]); ?>',

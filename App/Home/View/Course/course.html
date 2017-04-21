@@ -12,20 +12,84 @@
 	<!--App自定义的css-->
 	<link rel="stylesheet" type="text/css" href="__MUI__/css/app.css"/>
 </head>
+<style type="text/css">
+	body{
+		background-color: rgb(242,242,242);
+	}
+	#nav{
+		position: fixed;
+		top: 0;
+		left: 0;
+		height: 59.25pt;
+		width: 100%;
+		background-color: white;
+		z-index: 11;
+	}
+	#main{
+		margin-top: 68pt;
+	}
+	.lists-a{
+		float: right;
+		height: 30pt;
+		line-height: 30pt;
+		color: rgb(64,171,173);
+		font-size: 10.5pt;
+		font-family: PingFangSC-Regular, sans-serif;
+	}
+</style>
 <body>
-<!--          HEAD           -->
+<div id="nav">
+	<div style="float: left;">
+		<p style="margin-top: 11.25pt;margin-left: 11.25pt;font-size: 13.5pt;letter-spacing: 0.7pt;color: rgb(0,0,0);font-family: PingFangSC-Regular, sans-serif;">{$t.title}</p>
+		<p style="margin-top: 4.5pt;margin-left: 11.25pt;font-size: 10.5pt;letter-spacing: 0.55pt;color: rgb(51,51,51);font-family: PingFangSC-Regular, sans-serif;">{$t.author}</p>
+	</div>
+	<a href="http://zl.weilaimeixue.com/index/home/">
+		<div style="float: right;line-height: 59.25pt;margin-right: 11.25pt;font-size: 12pt;letter-spacing: 0.75pt;color: rgb(102,102,102);font-family: PingFangSC-Regular, sans-serif;">更多 ></div>
+	</a>
+</div>
+<div id="main">
+	<volist name="list" id="l">
+		<div style="text-align: center;width: 80pt;height: 18pt;background-color: rgb(221,221,221);border-radius: 25pt;font-size: 9pt;margin: auto;color: rgb(102,102,102);line-height: 18pt;font-family: PingFangSC-Regular, sans-serif;letter-spacing: 0.65pt;">{$l.time}
+		</div>
+		<div class="mui-card">
+			<div class="mui-card-content">
+				<div class="mui-card-content-inner" style="padding-bottom: 0px;">
+					<!-- <div style="background-image: url({$l.l_banner});background-size:cover;width: 100%;height: 148pt "></div> -->
+					<div>
+						<img src="{$l.l_thumbnail}" style="width: 100%;float: left;">
+						<div style="float: left;height: 38pt;width: 100%;margin-top: -38pt;background-color: rgba(0,0,0,0.6);color: rgb(255,255,255);font-size: 12pt;padding: 5pt;font-family: PingFangSC-Regular, sans-serif;line-height: 30pt;text-align: left;">
+							{$l.l_title}
+						</div>
+					</div>
+					<a class="lists-a" href="http://zl.weilaimeixue.com/course/text?lid={$l.id}">
+						阅读全文 >
+					</a>
+				</div>
+			</div>
+		</div>
+	</volist>
+</div>
+<div style="margin-top: 100pt">
+	<nav class="mui-bar mui-bar-tab" style="text-align: center;height: 48pt;">
+		<a class="course-index-foot-a" href="http://zl.weilaimeixue.com/">
+			<button class="mui-tab-label course-index-foot-span" style="width: 53%;height: 33pt;border: 1px solid rgb(64,171,173);border-radius: 54pt;color: rgb(64,171,173);font-size: 12pt;letter-spacing: 0.75pt;line-height: 24pt;margin-top: 7.5pt;font-family: PingFangSC-Medium, sans-serif;">查看更多订阅课程</button>
+		</a>
+		
+	</nav>
+</div>
+</body>
+<!-- <body>
 	<div>
 		<img src="{$t.banner}" style="width: 100%;height: 150px">
 	</div>
-<!--          MAIN           -->
 	<div>
 		<volist name="list" id="l">
 			<ul class="mui-table-view" style="width: 96%;margin-left: 2%">
 				<li class="mui-table-view-cell mui-media" style="margin-top: 10px">
 					<a href="http://zl.weilaimeixue.com/course/text/?lid={$l.id}">
-						<img class="mui-media-object mui-pull-left" src="{$l.l_thumbnail}">
+						<img class="mui-media-object mui-pull-left" src="{$l.l_banner}">
 						<div class="mui-media-body">
-							<p style="color: black;height: 100px;">
+							<p style="color: black;height: 100px;overflow: inherit;">
 							{$l.l_title}
 							</p>
 							<p class='mui-ellipsis'>{$l.create_time}</p>
@@ -35,7 +99,7 @@
 			</ul>
 		</volist>
 	</div>
-</body>
+</body> -->
 <script src="__MUI__/js/mui.min.js"></script>
 	<script>
 		mui.init({

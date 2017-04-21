@@ -22,9 +22,9 @@
 		<?php if(is_array($list)): $i = 0; $__LIST__ = $list;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$l): $mod = ($i % 2 );++$i;?><ul class="mui-table-view" style="width: 96%;margin-left: 2%">
 				<li class="mui-table-view-cell mui-media" style="margin-top: 10px">
 					<a href="http://zl.weilaimeixue.com/course/text/?lid=<?php echo ($l["id"]); ?>">
-						<img class="mui-media-object mui-pull-left" src="<?php echo ($l["l_thumbnail"]); ?>">
+						<img class="mui-media-object mui-pull-left" src="<?php echo ($l["l_banner"]); ?>">
 						<div class="mui-media-body">
-							<p style="color: black;height: 100px;">
+							<p style="color: black;height: 100px;overflow: inherit;">
 							<?php echo ($l["l_title"]); ?>
 							</p>
 							<p class='mui-ellipsis'><?php echo ($l["create_time"]); ?></p>

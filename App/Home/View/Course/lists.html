@@ -12,25 +12,73 @@
 	<!--App自定义的css-->
 	<link rel="stylesheet" type="text/css" href="__MUI__/css/app.css"/>
 </head>
+<style type="text/css">
+	body{
+		background-color: rgb(242,242,242);
+	}
+	#nav{
+		position: fixed;
+		top: 0;
+		left: 0;
+		height: 60pt;
+		width: 100%;
+		background-color: white;
+		z-index: 11;
+	}
+	#main{
+		margin-top: 68pt;
+	}
+	.lists-a{
+		float: right;
+		height: 30pt;
+		line-height: 30pt;
+		color: rgb(64,171,173);
+		font-size: 10.5pt;
+		font-family: PingFangSC-Regular, sans-serif;
+	}
+</style>
 <body>
-<volist name="list" id="l">
-	<div class="mui-card">
-		<div class="mui-card-header mui-card-media" style="height:40vw;background-image:url({$l.l_banner})"><div></div></div>
-		<div class="mui-card-content">
-			<div class="mui-card-content-inner" style="padding-bottom: 0px;">
-				<p style="">{$l.s_text}</p>
-				<p><span>{$l.time}</span>
-				<if condition="$l.view eq 1">
-				<a href="http://zl.weilaimeixue.com/course/unsubscribe/?lid={$l.id}" style="float: right;">阅读全文</a>
-				<else /> 
-				<a href="http://zl.weilaimeixue.com/subscribe/index/?cid={$t.id}" style="float: right;">购买此文</a>
-				</if>
-				
+<div id="nav">
+	<div style="float: left;">
+		<p style="margin-top: 11.25pt;margin-left: 10pt;font-size: 13.5pt;letter-spacing: 0.7pt;color: rgb(0,0,0);font-family: PingFangSC-Regular, sans-serif;">{$t.title}</p>
+		<p style="margin-top: 4.5pt;margin-left: 10pt;font-size: 10.5pt;letter-spacing: 0.55pt;color: rgb(51,51,51);font-family: PingFangSC-Regular, sans-serif;">{$t.author}</p>
+	</div>
+	<a href="http://zl.weilaimeixue.com/index/home/">
+		<div style="float: right;line-height: 60pt;margin-right: 12pt;font-size: 12pt;letter-spacing: 1pt;color: rgb(102,102,102);font-family: PingFangSC-Regular, sans-serif;">更多 ></div>
+	</a>
+</div>
+<div id="main">
+	<volist name="list" id="l">
+	
+		<div style="text-align: center;width: 80pt;height: 18pt;background-color: rgb(221,221,221);border-radius: 25pt;font-size: 9pt;margin: auto;color: rgb(102,102,102);line-height: 18pt;font-family: PingFangSC-Regular, sans-serif;letter-spacing: 0.6pt;">{$l.time}</div>
 
-				</p>
+		<div class="mui-card">
+			
+			<div class="mui-card-content">
+				<div class="mui-card-content-inner" style="padding-bottom: 0px;">
+					<!-- <div style="background-image: url({$l.l_banner});background-size:cover;width: 100%;height: 148pt "></div> -->
+					<div>
+						<img src="{$l.l_thumbnail}" style="width: 100%;float: left;">
+						<div style="float: left;height: 38pt;width: 100%;margin-top: -38pt;background-color: rgba(0,0,0,0.6);color: rgb(255,255,255);font-size: 12pt;padding: 5pt;font-family: PingFangSC-Regular, sans-serif;line-height: 30pt;text-align: left;">
+							{$l.s_text}
+						</div>
+					</div>
+					
+						<if condition="$l.view eq 1">
+							<a class="lists-a" href="http://zl.weilaimeixue.com/course/unsubscribe?lid={$l.id}">阅读全文></a>
+						<else /> 
+							<a class="lists-a" href="http://zl.weilaimeixue.com/subscribe/index/?cid={$t.id}">购买此文></a>
+						</if>
+				</div>
 			</div>
 		</div>
-	</div>
-</volist>
+	</volist>
+</div>
 </body>
+<script src="__MUI__/js/mui.min.js"></script>
+	<script>
+		mui.init({
+			swipeBack:true //启用右滑关闭功能
+		});
+	</script>
 </html>

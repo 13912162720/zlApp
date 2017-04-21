@@ -6,36 +6,182 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1,user-scalable=no">
 	<meta name="apple-mobile-web-app-capable" content="yes">
 	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.2.0.js"></script>
 
+	<link rel="stylesheet" type="text/css" href="__MUI__/css/icons-extra.css" />
 	<!--标准mui.css-->
 	<link rel="stylesheet" href="__MUI__/css/mui.min.css">
 	<!--App自定义的css-->
 	<link rel="stylesheet" type="text/css" href="__MUI__/css/app.css"/>
 </head>
+<style type="text/css">
+	body{
+		background-color: white;
+	}
+	.item{
+		display: table-cell;
+	    overflow: hidden;
+	    width: 1%;
+	    height: 50px;
+	    text-align: center;
+	    vertical-align: middle;
+	    white-space: nowrap;
+	    text-overflow: ellipsis;
+	    color: #929292;
+	}
+	.mui-table-view-cell{
+		height: 50px;
+	}
+	.head-card{
+		margin: 0;
+	}
+	#text img{
+		width: 100%;
+	}
+
+</style>
 <body>
 <!--          HEAD           -->
-	<div>
-		<img src="{$l.l_banner}" style="width: 100%;height: 150px">
-	</div>
-	
+	<div class="head-card" style="margin-top: 0;">
+	<img src="{$l.l_banner}" style="width: 100%;height: 280pt;">
+</div>
 <!--          MAIN           -->
-	<div>
-		{$l.author}  {$l.time}<BR/>
+	<!-- <div style="padding: 20px;" class="mui-card">
+		<p style="margin-bottom: 15px;">{$l.author}  {$l.time}</p><BR/>
+		{$l.text}
+	</div> -->
+<div style="text-align: center;width: 100%;margin: 0;background-color: white;">
+	<div style="margin: 0pt auto;padding-top: 20pt;width: 80%;font-size:17.25pt;color: rgb(17,17,17);letter-spacing: 0.9pt;font-family: PingFangSC-Semibold, sans-serif;line-height: 25pt;">
+		{$l.l_title}
+	</div>
+	<div style="margin: 9.75pt auto;color: rgb(153,153,153);font-size: 12pt;font-family: PingFangSC-Regular, sans-serif;">
+		作者：{$l.author}
+	</div>
+	<div style="margin: 3.75pt auto;color: rgb(204,204,204);font-size: 11.25pt;font-family: PingFangSC-Regular, sans-serif;">
+		{$l.time}
+	</div>
+	<div id="text" style="width: 92%;margin: 28.5pt auto;font-size: 12pt;text-align: left;line-height: 24pt;letter-spacing: 0.75pt;font-family: PingFangSC-Regular, sans-serif;">
 		{$l.text}
 	</div>
+</div>
 <!--          FOOT           -->
-	<div>
-		<nav class="mui-bar mui-bar-tab">
-			<a class="mui-tab-item mui-active" href="https://baidu.com">
-				<span class="mui-icon mui-icon-home"></span>
-				<span class="mui-tab-label">分享</span>
+	<div style="margin-top: 100pt;">
+		<nav class="mui-bar mui-bar-tab" style="height: 45pt;">
+			<a class="item mui-active" id="share">
+				<span class="mui-icon-extra mui-icon-extra-share"></span>
 			</a>
-			<a class="mui-tab-item" href="http://zl.weilaimeixue.com/subscribe/index/?cid={$l.cid}">
-				<span class="mui-icon mui-icon-email"></span>
-				<span class="mui-tab-label">订阅</span>
+			<a class="item course-index-foot-a" href="../subscribe/index/?cid={$l.id}">
+				<button class="mui-tab-label course-index-foot-span" style="width: 130pt;height: 33pt;border: 1px solid rgb(64,171,173);border-radius: 64pt;margin-top:3.5pt;color: white;background-color: rgb(64,171,173);font-size: 12pt;letter-spacing: 0.75pt;margin-left: -10pt;">订阅：{$l.price}元／年</button>
 			</a>
 			
 		</nav>
 	</div>
 </body>
+<script src="__MUI__/js/mui.min.js"></script>
+	<script>
+
+	$(document).ready(function(){
+	    $('#box1').css('height',$('#box1').css('width'));
+	})
+
+	function order()
+	{
+		window.location.href='http://zl.weilaimeixue.com/subscribe/index/?cid={$l.cid}';
+	}
+
+	document.getElementById("share").addEventListener('click', function() {
+				mui.toast('点击右上角分享给你的朋友'/*,{duration:2800,type:'div'}*/);
+			});
+
+		mui.init({
+			swipeBack:true //启用右滑关闭功能
+		});
+		wx.config({
+		    debug: false,
+		    appId: '{$wx.appId}',
+		    timestamp: {$wx.timestamp},
+		    nonceStr: '{$wx.nonceStr}',
+		    signature: '{$wx.signature}',
+		    jsApiList: [
+		      // 所有要调用的 API 都要加到这个列表中
+			'onMenuShareTimeline',
+			'onMenuShareAppMessage',
+			'onMenuShareWeibo',
+			'onMenuShareQQ',
+			'onMenuShareQZone'
+		    ]
+		  });
+
+		wx.ready(function(){
+			wx.onMenuShareTimeline({
+			    title: 'F.B.L', // 分享标题
+			    link: 'http://zl.weilaimeixue.com/', // 分享链接，该链接域名或路径必须与当前页面对应的公众号JS安全域名一致
+			    imgUrl: 'http://static.cnbetacdn.com/article/2017/0331/69d2e5483955f54.png', // 分享图标
+			    success: function () { 
+			    	
+			        // 用户确认分享后执行的回调函数
+			    },
+			    cancel: function () {
+			    	
+			        // 用户取消分享后执行的回调函数
+			    }
+			});
+
+			wx.onMenuShareAppMessage({
+			    title: 'F.B.L', // 分享标题
+			    desc: 'test', // 分享描述
+			    link: 'http://zl.weilaimeixue.com/', // 分享链接，该链接域名或路径必须与当前页面对应的公众号JS安全域名一致
+			    imgUrl: 'http://static.cnbetacdn.com/article/2017/0331/69d2e5483955f54.png', // 分享图标
+			    type: 'link', // 分享类型,music、video或link，不填默认为link
+			    dataUrl: '', // 如果type是music或video，则要提供数据链接，默认为空
+			    success: function () { 
+			    	//alert('success');
+			        // 用户确认分享后执行的回调函数
+			    },
+			    cancel: function () { 
+			    	//alert('cancel');
+			        // 用户取消分享后执行的回调函数
+			    }
+			});
+
+			wx.onMenuShareQQ({
+			    title: 'F.B.L', // 分享标题
+			    desc: 'test', // 分享描述
+			    link: 'http://zl.weilaimeixue.com/', // 分享链接
+			    imgUrl: 'http://static.cnbetacdn.com/article/2017/0331/69d2e5483955f54.png', // 分享图标
+			    success: function () { 
+			       // 用户确认分享后执行的回调函数
+			    },
+			    cancel: function () { 
+			       // 用户取消分享后执行的回调函数
+			    }
+			});
+
+			wx.onMenuShareQZone({
+			   	title: 'F.B.L', // 分享标题
+			    desc: 'test', // 分享描述
+			    link: 'http://zl.weilaimeixue.com/', // 分享链接
+			    imgUrl: 'http://static.cnbetacdn.com/article/2017/0331/69d2e5483955f54.png', // 分享图标
+			    success: function () { 
+			       // 用户确认分享后执行的回调函数
+			    },
+			    cancel: function () { 
+			        // 用户取消分享后执行的回调函数
+			    }
+			});
+
+			wx.onMenuShareWeibo({
+			    title: 'F.B.L', // 分享标题
+			    desc: 'test', // 分享描述
+			    link: 'http://zl.weilaimeixue.com/', // 分享链接
+			    imgUrl: 'http://static.cnbetacdn.com/article/2017/0331/69d2e5483955f54.png', // 分享图标
+			    success: function () { 
+			       // 用户确认分享后执行的回调函数
+			    },
+			    cancel: function () { 
+			        // 用户取消分享后执行的回调函数
+			    }
+			});
+		})
+	</script>
 </html>

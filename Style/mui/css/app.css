@@ -130,33 +130,18 @@
     background-color: green;
 }
 
-.subscribe-success-main-div-1{
-    margin: 100px auto 0;
-}
-.subscribe-success-main-label{
-    text-align: center;
-}
 
-.subscribe-success-main-div-2{
-    text-align: center;
-    margin: 50px auto 0;
-}
 
-.subscribe-success-main-button{
-    height: 60px;
-    width: 300px;
-}
 
-.subscribe-success-foot-div-1{
-    font-size: 15px;
-    text-align: center;
-    color: #CCC;
-    margin-top: 220px;
-}
 
-#subscribed-head-li{
-    height: 283px;
-}
-.subscribed-head-p{
-    margin-top: 10px;
-}
+.it_em{
+        display: table-cell;
+        overflow: hidden;
+        width: 1%;
+        height: 50px;
+        text-align: center;
+        vertical-align: middle;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        color: #929292;
+    }

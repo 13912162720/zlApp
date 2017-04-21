@@ -68,7 +68,7 @@
 	<?php if(is_array($list)): $i = 0; $__LIST__ = $list;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$l): $mod = ($i % 2 );++$i;?><li class="mui-table-view-cell mui-media">
 			<a href="<?php echo U('Course/index');?>?cid=<?php echo ($l["id"]); ?>">
 				<img class="mui-media-object mui-pull-left" src="<?php echo ($l["thumbnail"]); ?>">
-				<div class="mui-media-body">
+				<div class="mui-media-body" style="overflow-x: scroll;">
 					<?php echo ($l["title"]); ?>
 					<p class='home-text-1'><?php echo ($l["subhead"]); ?></p><br/>
 					<p class='mui-ellipsis'><?php echo ($l["news"]); ?></p><br/>
@@ -100,16 +100,16 @@
 <div style="margin-top: 60px">
 	<nav class="mui-bar mui-bar-tab">
 		<a class="home-a" href="<?php echo U('Subscribe/subscribed');?>">
-			已定专栏
+			已订专栏
 		</a>
 	</nav>
 </div>
 </body>
 <script src="/Style/mui/js/mui.min.js"></script>
 	<script>
-		mui.init({
-			swipeBack:true //启用右滑关闭功能
-		});
+		// mui.init({
+		// 	swipeBack:true //启用右滑关闭功能
+		// });
 		//获得slider插件对象
 		var gallery = mui('#slider');
 		gallery.slider({

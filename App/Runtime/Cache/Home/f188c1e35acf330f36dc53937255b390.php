@@ -24,8 +24,8 @@
 <!--          HEAD           -->
 <div id="course-home-head" >
 	<ul class="mui-table-view">
-		<li class="mui-table-view-cell mui-media">
-			<img class="mui-media-object mui-pull-left" src="<?php echo ($l["thumbnail"]); ?>">
+		<li class="mui-table-view-cell mui-media subscribe-head-pad">
+			<img class="mui-media-object mui-pull-left" id="subscribe-head-img" src="<?php echo ($l["thumbnail"]); ?>">
 			<div class="mui-media-body">
 				<?php echo ($l["title"]); ?>
 				<p class='course-title-intro'><?php echo ($l["s_intro"]); ?></p><br/>

@@ -13,9 +13,84 @@
 	<!--App自定义的css-->
 	<link rel="stylesheet" type="text/css" href="__MUI__/css/app.css"/>
 </head>
+<style type="text/css">
+	body{
+		background-color: rgb(245,245,245);
+		text-align: center;
+	}
+	.mui-table-view li{
+		background-color: white;
+		height: 48pt;
+		line-height: 36pt;
+	}
+	/*body{
+		background-image: url(__IMG__/c/1.jpg);
+		background-size: cover;
+		background-color: rgb(216,216,216);
+		min-height: 400pt;
+	}
+	#pay-main{
+		width: 100%;
+		height: 300pt;
+		background-color: white;
+		position:absolute;
+		bottom:0;
+	}
+	
+	.in-li{
+		float: left;
+		width: 50%;
+		text-align: center;
+	}*/
+</style>
 <body>
+<div style="width: 92%;background-color:white;margin: 4% 4% 46pt 4%;float: left;">
+	<div style="width: 100%;padding: 4%;float: left;">
+		<img src="__IMG__/c/1.jpg" style="width: 27.5%;float: left;">
+		<div style="margin-left: 4%;float: left;width: 68.5%;margin-top: 10pt;text-align: left;">
+			<p style="font-size: 12pt;color: rgb(17,17,17);letter-spacing: 0.7pt;line-height: 15pt;font-family: PingFangSC-Medium, sans-serif;">课程名称：{$l.title}</p>
+			<p style="font-size: 10pt;color: rgb(38,38,38);font-family: PingFangSC-Regular, sans-serif;">专家：{$l.author}</p>
+		</div>
+	</div>
+	<div style="float: left;width: 92%;text-align: left;padding:0 4%">
+		<p style="font-size: 10pt;line-height: 15pt;letter-spacing: 0.6pt;color: rgb(102,102,102);font-family: PingFangSC-Light, sans-serif;">课程简介：</p>
+		<p style="font-size: 10pt;line-height: 15pt;letter-spacing: 0.6pt;color: rgb(102,102,102);font-family: PingFangSC-Light, sans-serif;">{$l.s_intro}</p>
+	</div>
+</div>
+<div style="">
+	<p style="font-size: 12pt;letter-spacing: 0.4pt;color: black;font-family: PingFangSC-Medium, sans-serif;">支付金额</p>
+	<p style="font-size: 30pt;letter-spacing: 0.8pt;color: black;font-family: PingFangSC-Medium, sans-serif;">¥{$l.price}</p>
+	<div style="text-align: center;margin-top: 33pt">
+			<div style="width: 72%;margin: 0 auto;">
+				<span class="subscribe-main-div1-p" style="font-size: 10pt;letter-spacing: 1pt;font-family: PingFangSC-Light, sans-serif;">每天仅需<b style="color:rgb(241,149,28);display: inline-block;">{$l.daypay}</b>元，KOL精品课程马上到手
+				</span>
+			</div>
+				<button class="mui-tab-label course-index-foot-span" style="width: 75%;height: 36pt;border: 1px solid rgb(23,155,22);border-radius: 69pt;color: white;font-size: 13pt;letter-spacing: 0.4pt;margin-top: 7.5pt;background-color: rgb(26,173,24);font-family: PingFangSC-Regular, sans-serif;"  onclick="pay()">立即支付
+				</button>
+			
+			<div style="font-size: 10pt;text-align:left;width: 85%;color: rgb(155,155,155);margin:32pt auto;font-family: PingFangSC-Regular, sans-serif;">您将订阅《{$l.title}》{$l.s_time}到{$l.e_time}的内容。订阅成功后不支持退款。</div>
+		</div>
+</div>
+<!-- <div style="background-color: rgba(0,0,0,0.5);width: 100%;height: 200pt;"></div>
+	<div id="pay-main">
+		<div style="border: 1px solid rgb(242,242,242);height: 30pt;"><div id="cancel" style="padding-left: 10pt;line-height: 23pt;font-size: 28pt;width: 10%;color: rgb(155,155,155);float: left;" onclick="backup()">×</div><div style="margin-top: 7pt;margin-left: 30%;text-align: center;font-size: 12pt;letter-spacing: 1.1pt;float: left;">确认支付</div>
+		</div>
+		<ul class="mui-table-view">
+			 <li class="mui-table-view-cell"><div class="in-li" style="size: 18pt;letter-spacing: 1pt;">实付金额</div><div class="in-li" style="size: 18pt;letter-spacing: 1pt"><span style="font-size: 20pt;font-weight: bold;">{$l.price}</span>元</div></li>
+	         <li class="mui-table-view-cell"><div class="in-li">优惠券</div><div class="in-li" style="color: rgb(155,155,155);font-size: 12pt">无可用优惠券</div></li>
+		</ul>
+		<div style="text-align: center;margin-top: 23%">
+			<div style=""><span class="subscribe-main-div1-p" style="font-size: 10pt;letter-spacing: 1.2pt;">每天仅需<b style="color:rgb(241,149,28); ;display: inline-block;">{$l.daypay}</b>元，KOL精品课程马上到手</span>
+				</div>
+				<button class="mui-tab-label course-index-foot-span" style="width: 120pt;height: 34pt;border: 1px solid rgb(64,171,173);border-radius: 84pt;padding: 1px 15px;color: white;size: 16pt;letter-spacing: 0.9pt;margin-top: 5pt;background-color: rgb(64,171,173);"  onclick="pay()">立即支付
+				</button>
+			
+			<div style="font-size: 10pt;text-align: center;width: 85%;margin-left: 7.5%;color: rgb(155,155,155);margin-top:18pt;">您将订阅《{$l.title}》{$l.s_time}到{$l.e_time}的内容。订阅成功后不支持退款。</div>
+		</div>
+	</div> -->
+
 <!--          HEAD           -->
-<div id="course-home-head" >
+<!-- <div id="course-home-head" >
 	<ul class="mui-table-view">
 		<li class="mui-table-view-cell mui-media subscribe-head-pad">
 			<img class="mui-media-object mui-pull-left" 
@@ -27,13 +102,12 @@
 			</div>
 		</li>
 	</ul>
-</div> 
+</div>  -->
 <!--            MAIN           -->
-<div>
+<!-- <div>
 	<div class="mui-card" style="margin:0px 0px 0px auto;">
 		<div class="mui-card-content">
-			<div class="subscribe-main-div1"><span class="subscribe-main-div1-p">每天仅需<b style="color: red;display: inline-block;">{$l.daypay}</b>元，KOL精品课程马上到手</span>
-			</div>
+			
 			<div class="subscribe-main-div2">
 				<p class="subscribe-main-div2-p">支付金额：<b>{$l.price}</b>元</p>
 			</div>
@@ -49,7 +123,7 @@
 	</div>
 </div>
 
-
+ -->
 </body>
 <script src="__MUI__/js/mui.min.js"></script>
 	<script>
@@ -102,6 +176,10 @@
 			});
 		  }
 
+		  function backup()
+		  {
+		  	window.history(-1);
+		  }
 		  // function success(){
 		  // 	$.ajax({
 		  // 		url:"{:U(Pay/success)}",

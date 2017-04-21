@@ -36,19 +36,19 @@
 <body>
 	<div id="main">
 		<div class="line">
-			<div class="star">田田田田田</div><div class="press"><div class="percent" style="width: <?php echo ($l["5"]); ?>%"></div></div><br/>
+			<div class="star">★★★★★</div><div class="press"><div class="percent" style="width: <?php echo ($l["5"]); ?>%"></div></div><br/>
 		</div>
 		<div class="line">
-			<div class="star">田田田田田</div><div class="press"><div class="percent" style="width: <?php echo ($l["4"]); ?>%"></div></div><br/>
+			<div class="star">★★★★★</div><div class="press"><div class="percent" style="width: <?php echo ($l["4"]); ?>%"></div></div><br/>
 		</div>
 		<div class="line">
-			<div class="star">田田田田田</div><div class="press"><div class="percent" style="width: <?php echo ($l["3"]); ?>%"></div></div><br/>
+			<div class="star">★★★★★</div><div class="press"><div class="percent" style="width: <?php echo ($l["3"]); ?>%"></div></div><br/>
 		</div>
 		<div class="line">
-			<div class="star">田田田田田</div><div class="press"><div class="percent" style="width: <?php echo ($l["2"]); ?>%"></div></div><br/>
+			<div class="star">★★★★★</div><div class="press"><div class="percent" style="width: <?php echo ($l["2"]); ?>%"></div></div><br/>
 		</div>
 		<div class="line">
-			<div class="star">田田田田田</div><div class="press"><div class="percent" style="width: <?php echo ($l["1"]); ?>%"></div></div><br/>
+			<div class="star">★★★★★</div><div class="press"><div class="percent" style="width: <?php echo ($l["1"]); ?>%"></div></div><br/>
 		</div>
 	</div>
 </body>

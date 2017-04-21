@@ -33,9 +33,9 @@
 </body>
 <script src="/Style/mui/js/mui.min.js"></script>
 	<script>
-		mui.init({
-			swipeBack:true //启用右滑关闭功能
-		});
+		// mui.init({
+		// 	swipeBack:true //启用右滑关闭功能
+		// });
 
 	</script>
 </html>

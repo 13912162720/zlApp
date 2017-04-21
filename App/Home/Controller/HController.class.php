@@ -4,10 +4,10 @@ use Think\Controller;
 class HController extends Controller
 {
 	public function _initialize(){
-		
+		 //session('uid',1);
 		if (!session('uid')) {
-			E("Login Please");
-		}
+		 	redirect('http://zl.weilaimeixue.com/');
+		 }
 	}
 }
 

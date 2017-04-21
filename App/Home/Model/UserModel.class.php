@@ -3,7 +3,7 @@ namespace Home\Model;
 use Think\Model;
 class UserModel extends Model
 {
-	public function getUid($openid)
+	public function getUidByOpenid($openid)
 	{
 		$map['openid'] = $openid;
 		$res = $this -> where($map) -> field('id') ->find();

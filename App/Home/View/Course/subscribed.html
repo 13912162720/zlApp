@@ -12,35 +12,181 @@
 	<!--App自定义的css-->
 	<link rel="stylesheet" type="text/css" href="__MUI__/css/app.css"/>
 </head>
+	<style type="text/css">
+		.course-index-foot-a{
+			float: left;
+			width: 50%;
+			text-align: center;
+			margin:13px auto;
+		}
+		.mui-card{
+			margin-left: 0;
+			margin-right: 0;
+		}
+		.l-block{
+			height: 5pt;
+			width: 20pt;
+			background-color: rgb(64,171,173);
+		}
+		.card-p{
+			font-size: 16pt;
+			letter-spacing: 1.2pt;
+			color: rgb(17,17,17);
+			margin-top: 8pt;
+			font-family: PingFangSC-Semibold, sans-serif;
+		}
+		.mui-table-view li{
+			margin: 0;
+			background-color: white;
+			height: 146pt;
+		}
+		.mui-table-view-cell:after{
+			height: 0;
+		}
+		.mui-ellipsis{
+			size: 14pt;
+			color: rgb(153,153,153);
+			margin-top: 12pt;
+		}
+		.up-time{
+			margin-top: 26pt;
+			size: 14pt;
+			letter-spacing: 0.8pt;
+			color: rgb(64,171,173);
+		}
+	</style>
 <body>
 <!--          HEAD           -->
-<div id="course-home-head" >
-	<ul class="mui-table-view">
-		<li class="mui-table-view-cell mui-media subscribe-head-pad">
-			<img class="mui-media-object mui-pull-left" 
-			id="subscribe-head-img" src="{$l.thumbnail}">
-			<div class="mui-media-body">
-				{$l.title}
-				<p class='course-title-intro'>{$l.s_intro}</p><br/>
-				
+<div class="mui-card" style="margin-top: 0;">
+	<div class="mui-card-header mui-card-media" id="box1" style="height:285pt;width:100%;background-image:url({$l.banner})"></div>
+	<div class="mui-card-content">
+		<div class="mui-card-content-inner">
+			<p style="margin-top: 20pt;margin-left: 17.25pt;width: 90%;height: 50pt;font-size: 17.25pt;text-align: center;letter-spacing: 0.9pt;color: rgb(17,17,17);font-family: PingFangSC-Semibold, sans-serif;line-height: 25pt;">{$l.title}</p>
+			<p style="margin-top: 14pt;margin-left:17pt;width: 90%;height: 36pt;font-size: 11.25pt;text-align: center;color:rgb(153,153,153);font-family: PingFangSC-Regular, sans-serif;">{$l.s_intro}</p>
+		</div>
+	</div>
+	
+</div>
+<!--          MAIN          -->
+<div>
+	<div class="mui-card">
+		<div class="mui-card-content">
+			<div class="mui-card-content-inner">
+				<div class="l-block"></div>
+				<p class="card-p">推荐语</p>
+				<div style="width: 100%;float: left;" >
+					<img src="__IMG__/others/reco/1.jpg" style="width: 70pt;height: 70pt;margin-left: 5pt;float: left;">
+					<div style="width: 60%;height: 90pt;margin-left: 23pt;font-size: 11.25pt;letter-spacing: 0.7pt;color: rgb(0,0,0);float: left;font-family: PingFangSC-Light, sans-serif;">{$l.reco}</div>
+				</div>
+				<div style="width: 100%;float: left;">
+					<img src="__IMG__/others/reco/2.jpg" style="width: 70pt;height: 70pt;margin-left: 5pt;float: left;">
+					<div style="width: 60%;height: 90pt;margin-left: 23pt;font-size: 11.25pt;letter-spacing: 0.7pt;color: rgb(0,0,0);float: left;font-family: PingFangSC-Light, sans-serif;">{$l.reco}</div>
+				</div>
 			</div>
-		</li>
-	</ul>
+		</div>
+	</div>
+	<div class="mui-card">
+		<div class="mui-card-content">
+			<div class="mui-card-content-inner">
+				<div class="l-block"></div>
+				<p class="card-p">课程介绍</p>
+				<div style="margin-top: 9pt;font-size: 11.25pt;letter-spacing: 0.7pt;color: rgb(17,17,17);font-family: PingFangSC-Light, sans-serif;">
+					{$l.l_intro}
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="mui-card">
+		<div class="mui-card-content">
+			<div class="mui-card-content-inner">
+				<div class="l-block"></div>
+				<p class="card-p">作者介绍</p>
+				<div style="margin-top: 9pt;font-size: 11.25pt;letter-spacing: 0.7pt;color: rgb(17,17,17);font-family: PingFangSC-Light, sans-serif;">
+					{$l.author_intro}
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
-<!--          MAIN             -->
-<div>
-	<ul class="mui-table-view">
-		<li class="mui-table-view-cell"><p class="course-title">课程介绍</p><p class="course-content">{$l.l_intro}</p></li>
-        <li class="mui-table-view-cell"><p class="course-title">作者介绍</p><p class="course-content">{$l.author_intro}</p></li>
-	</ul>
+<div class="mui-card">
+	<div class="mui-card-content">
+		<div class="mui-card-content-inner">
+			<div class="l-block"></div>
+			<p class="card-p">适宜人群</p>
+			<div style="margin-top: 9pt;font-size: 11.25pt;letter-spacing: 0.7pt;color: rgb(17,17,17);font-family: PingFangSC-Light, sans-serif;">
+				{$l.suit}
+			</div>
+		</div>
+	</div>
 </div>
+<div class="mui-card">
+	<div class="mui-card-content">
+		<div class="mui-card-content-inner">
+			<div class="l-block"></div>
+			<p class="card-p">订阅须知</p>
+			<div style="margin-top: 9pt;font-size: 11.25pt;letter-spacing: 0.7pt;color: rgb(17,17,17);font-family: PingFangSC-Light, sans-serif;">
+				{$l.notice}
+			</div>
+		</div>
+	</div>
+</div>
+<!-- <div class="mui-card">
+		<div class="mui-card-content">
+			<div class="mui-card-content-inner">
+				<div class="l-block"></div>
+				<p class="card-p">最新内容</p>
+				<div>
+					<ul class="mui-table-view">
+						<li class="mui-table-view-cell mui-media">
+							<a href="javascript:;">
+								<img class="mui-media-object mui-pull-left" src="" style="border: 1px solid blue;width: 90pt;height: 130pt;margin-top: 0;">
+								<div class="mui-media-body">
+									<div style="margin-top: 8pt;size: 18pt;letter-spacing: 1pt;color: rgb(17,17,17);">Vestibulum rutrum quam<br/> vitae fringilla tincidunt. </div>
+									<p class='mui-ellipsis'>Banjo tote bag bicycle righ<br/>ts, High Life sartorial cray craft beer whatever street art fap. </p>
+									<div class="up-time">刚刚更新</div>
+								</div>
+							</a>
+						</li>
+						<li class="mui-table-view-cell mui-media">
+							<a href="javascript:;">
+								<img class="mui-media-object mui-pull-left" src="" style="border: 1px solid blue;width: 90pt;height: 130pt;margin-top: 0;">
+								<div class="mui-media-body">
+									<div style="margin-top: 8pt;size: 18pt;letter-spacing: 1pt;color: rgb(17,17,17);">Vestibulum rutrum quam<br/> vitae fringilla tincidunt. </div>
+									<p class='mui-ellipsis'>Banjo tote bag bicycle righ<br/>ts, High Life sartorial cray craft beer whatever street art fap. </p>
+									<div class="up-time">20小时前</div>
+								</div>
+							</a>
+						</li>
+						<li class="mui-table-view-cell mui-media">
+							<a href="javascript:;">
+								<img class="mui-media-object mui-pull-left" src="" style="border: 1px solid blue;width: 90pt;height: 130pt;margin-top: 0;">
+								<div class="mui-media-body">
+									<div style="margin-top: 8pt;size: 18pt;letter-spacing: 1pt;color: rgb(17,17,17);">Vestibulum rutrum quam<br/> vitae fringilla tincidunt. </div>
+									<p class='mui-ellipsis'>Banjo tote bag bicycle righ<br/>ts, High Life sartorial cray craft beer whatever street art fap. </p>
+									<div class="up-time">2017-03-18</div>
+								</div>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div> -->
 <!--         FOOT             -->
-<div>
-	<nav class="mui-bar mui-bar-tab" style="text-align: center;">
-		<a href="../subscribe/subscribed/?cid={$l.id}">
-			<button class="mui-tab-label course-index-foot-span" style="border: 1px solid black;border-radius: 10px;padding: 1px 15px;margin-top: 15px;">已订阅，开始阅读</button>
+<div style="margin-top: 100px;">
+	<nav class="mui-bar mui-bar-tab" style="text-align: center;height: 48pt;">
+		<a href="../course/course/?cid={$l.id}">
+			<button class="mui-tab-label course-index-foot-span" style="width: 53%;height: 33pt;border: 1px solid rgb(64,171,173);border-radius: 64pt;padding: 1px 15px;color: rgb(64,171,173);font-size: 12pt;letter-spacing: 0.7pt;margin-top: 7.5pt;font-family: PingFangSC-Medium, sans-serif;line-height: 24pt;">已订阅，开始阅读</button>
 		</a>
 	</nav>
 </div>
 </body>
+<script src="__MUI__/js/mui.min.js"></script>
+	<script>
+		mui.init({
+			swipeBack:true //启用右滑关闭功能
+		});
+
+
+	</script>
 </html>

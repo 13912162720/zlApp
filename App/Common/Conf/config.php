@@ -31,7 +31,7 @@ return array(
 	'DEFAULT_MODULE'       =>    'Home',  // 默认模块
 	//'DEFAULT_CONTROLLER'   =>	 'Subscribe',
 
-	'SHOW_PAGE_TRACE' => true,
+	'SHOW_PAGE_TRACE' => false,
 
 	'TMPL_PARSE_STRING'  =>array(
      '__STYLE__'    =>	 '/Style', // 增加新的JS类库路径替换规则

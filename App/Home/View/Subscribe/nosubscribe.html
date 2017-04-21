@@ -17,16 +17,15 @@
     	margin: 112.5pt auto 0;
 	}
 	.subscribe-success-main-label{
+		width: 37.2%;
 	    text-align: center;
 	    font-size: 12pt;
 	    letter-spacing: 0.75pt;
-	    font-family: PingFangSC-Regular, sans-serif;
-	    margin: 15pt auto;
 	}
 
 	.subscribe-success-main-div-2{
 	    text-align: center;
-	    margin: 78pt auto 0;
+	    margin: 78px auto 0;
 	}
 
 	.subscribe-success-main-button{
@@ -38,36 +37,33 @@
 	    letter-spacing: 0.75pt;
 	    font-size: 12pt;
 	    font-family: PingFangSC-Medium, sans-serif;
-	    line-height: 24pt;
 
 	}
 
-	.subscribe-success-foot-div{
-		width: 50%;
+	.subscribe-success-foot-div-1{
 	    font-size: 10.5pt;
 	    text-align: center;
 	    color: rgb(193,193,193);
-	    margin: 105.5pt auto 0;
+	    margin-top: 123.75pt;
 	    letter-spacing: 0.7pt;
-	    font-family: PingFangTC-Light, sans-serif;
 	}
 </style>
 <body>
 <!--           HEAD         -->
 <!--           MAIN         -->
 <div class="subscribe-success-main-div-1" style="text-align: center;width: 80%;margin-left: 10%;">
-	<span><img src="__IMG__/ui/smile.png" style="width: 37.5pt;"></span>
-	<p class="subscribe-success-main-label" style="color: rgb(64,171,173);">《{$l.title}》专栏订阅成功!</p>
+	<span><img src="__IMG__/ui/cry.png" style="width: 45pt;"></span>
+	<p class="subscribe-success-main-label" style="color: rgb(64,171,173);margin: 6.375pt auto;font-family: PingFangSC-Regular, sans-serif;">暂无订阅记录</p>
 </div>
 <div class="subscribe-success-main-div-2">
-<a href="{:U('Course/course')}?cid={$l.id}">
+<a href="{:U('Index/home')}">
 	<button type="button" class="mui-btn subscribe-success-main-button">
-					开始阅读
-				</button>
+		开始阅读
+	</button>
 </a>
 </div>
 <!--           FOOT         -->
-<div class="subscribe-success-foot-div">
+<div class="subscribe-success-foot-div-1">
 	遇到问题请联系客服邮箱<br/>
 	service@weilaimeixue.com
 </div>
